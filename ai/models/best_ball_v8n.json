@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 11,
+    "Checksum": "9fea0791ec1cc3e6995f87ac62e86b3b2c4bf721d88748e9ad179c8db93a001b",
+    "DEVICE": [
+        {
+            "DeviceType": "HAILO8L",
+            "RuntimeAgent": "HAILORT",
+            "SupportedDeviceTypes": "HAILORT/HAILO8L, HAILORT/HAILO8"
+        }
+    ],
+    "PRE_PROCESS": [
+        {
+            "InputN": 1,
+            "InputH": 224,
+            "InputW": 224,
+            "InputC": 3,
+            "InputQuantEn": true
+        }
+    ],
+    "MODEL_PARAMETERS": [
+        {
+            "ModelPath": "best_ball_v8n.hef"
+        }
+    ],
+    "POST_PROCESS": [
+        {
+           "OutputPostprocessType": "DetectionYoloHailo",
+            "OutputNumClasses": 1
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Checksum": "520355c86f8d9a8456907236fcd48b9f2fd2e8fa314ae4f17eeb14b6c45cf95a",
+    "ConfigVersion": 6,
+    "DEVICE": [
+        {
+            "DeviceType": "HAILO8L",
+            "RuntimeAgent": "HAILORT",
+            "ThreadPackSize": 6,
+            "SupportedDeviceTypes": "HAILORT/HAILO8L, HAILORT/HAILO8"
+        }
+    ],
+    "MODEL_PARAMETERS": [
+        {
+            "ModelPath": "depth_anything_v2--224x224_quant_hailort_multidevice_1.hef"
+        }
+    ],
+    "POST_PROCESS": [
+        {
+            "OutputPostprocessType": "None",
+            "PostProcessorInputs": [
+                1
+            ]
+        }
+    ],
+    "PRE_PROCESS": [
+        {
+            "InputN": 1,
+            "InputH": 224,
+            "InputW": 224,
+            "InputC": 3,
+            "InputPadMethod": "stretch",
+            "InputResizeMethod": "bilinear",
+            "InputQuantEn": true
+        }
+    ]
+}
