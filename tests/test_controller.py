@@ -2,11 +2,18 @@ from models.arm import Arm
 from devices.servo_uart import ServoUart
 import time
 import gpiod
+from config.robot_setup import (
+    A,
+    B,
+    C,
+    arms,
+    body,
+    FrontLeftArm,
+    FrontRightArm,
+    BackLeftArm,
+    BackRightArm
+)
 
-servo_device = ServoUart()
-A = 82.8 + 5
-B = 48
-C = 25
 delta_a = 25
 # delta_a = 0
 
@@ -27,53 +34,6 @@ request = gpiod.request_lines(
     },
 )
     
-
-FrontLeftArm = Arm({
-    "chA": 3,
-    "chB": 4,
-    "chC": 5,
-    "delta_a": delta_a,
-    "delta_b": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C
-})
-
-FrontRightArm = Arm({
-    "chA": 2,
-    "chB": 0,
-    "chC": 1,
-    "delta_a": delta_a,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackLeftArm = Arm({
-    "chA": 11,
-    "chB": 10,
-    "chC": 12,
-    "delta_a": delta_a,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackRightArm = Arm({
-    "chA": 13,
-    "chB": 15,
-    "chC": 14,
-    "delta_a": delta_a,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-})
 
 # FrontLeftArm.set_angle(90, 90, 180)
 # FrontRightArm.set_angle(0, 140, 90)

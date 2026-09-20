@@ -8,6 +8,17 @@ from models.body import Body
 from devices.servo_uart import ServoUart
 from points.animation import walk_points
 
+from config.robot_setup import (
+    A,
+    B,
+    C,
+    arms,
+    body,
+    FrontLeftArm,
+    FrontRightArm,
+    BackLeftArm,
+    BackRightArm
+)
 
 class LegAnimator:
     def __init__(self, points):
@@ -55,12 +66,6 @@ class LegAnimator:
         return self.x, self.y, self.z
 
 
-servo_device = ServoUart()
-
-A = 82.8 + 5
-B = 48
-C = 25
-delta_a = 25
 
 LED1 = 17
 LED2 = 27
@@ -79,87 +84,8 @@ request = gpiod.request_lines(
     },
 )
 
-FrontLeftArm = Arm({
-    "chA": 3,
-    "chB": 4,
-    "chC": 5,
-    "delta_a": delta_a - 4,
-    "delta_b": 10,
-    "delta_c": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C
-})
-
-FrontRightArm = Arm({
-    "chA": 2,
-    "chB": 0,
-    "chC": 1,
-    "delta_a": delta_a - 3,
-    "delta_b": 0,
-    "delta_c": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackLeftArm = Arm({
-    "chA": 11,
-    "chB": 10,
-    "chC": 12,
-    "delta_a": delta_a,
-    "delta_b": 0,
-    "delta_c": 5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackRightArm = Arm({
-    "chA": 13,
-    "chB": 15,
-    "chC": 14,
-    "delta_a": delta_a,
-    "delta_b": 3,
-    "delta_c": 5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-})
-
 X = 92.5 / 2
 Y = 77 / 2
-
-legs = {
-    "front_left": {
-        "arm": FrontLeftArm,
-        "mount": np.array([X, -Y, 0]),
-        "local_to_body": np.diag([1, -1, 1]),
-    },
-    "front_right": {
-        "arm": FrontRightArm,
-        "mount": np.array([X, Y, 0]),
-        "local_to_body": np.diag([1, 1, 1]),
-    },
-    "back_left": {
-        "arm": BackLeftArm,
-        "mount": np.array([-X, -Y, 0]),
-        "local_to_body": np.diag([-1, -1, 1]),
-    },
-    "back_right": {
-        "arm": BackRightArm,
-        "mount": np.array([-X, Y, 0]),
-        "local_to_body": np.diag([-1, 1, 1]),
-    },
-}
-
-body = Body(legs)
 
 arms = {
     "front_left": FrontLeftArm,
@@ -198,21 +124,14 @@ frame = 0
 while True:
     phase = frame * 0.05
 
-    # Optional body rotation
-    # Set all to 0 if you want only walking.
     body.set_rotation_matrix(
         roll=0,
-        pitch=6,
+        pitch=15,
         yaw=0,
     )
 
     for leg_name, animation in animations.items():
         x, y, z = animation.next()
-
-        # Without body rotation:
-        # arms[leg_name].set_coord(x, y, z)
-
-        # With body transform:
         body.set_leg_coord(leg_name, x, y, z)
 
     frame += 1

@@ -8,8 +8,8 @@ BAUDRATE = 115200*2
 serial = pyserial.Serial(
     COM_PORT,
     BAUDRATE,
-    timeout=0.1,
-    write_timeout=0.02
+    timeout=2,
+    write_timeout=1
 )
 time.sleep(1)         # allow Pico to reset
 

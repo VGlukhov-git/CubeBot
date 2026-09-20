@@ -6,14 +6,18 @@ import gpiod
 from models.arm import Arm
 from models.body import Body
 from devices.servo_uart import ServoUart
-from points.animation import walk_points
-
-servo_device = ServoUart()
-
-A = 82.8 + 10
-B = 48
-C = 25
-delta_a = 21.5
+from points.animation import rotate_right_points 
+from config.robot_setup import (
+    A,
+    B,
+    C,
+    arms,
+    body,
+    FrontLeftArm,
+    FrontRightArm,
+    BackLeftArm,
+    BackRightArm
+)
 
 LED1 = 17
 LED2 = 27
@@ -32,87 +36,9 @@ request = gpiod.request_lines(
     },
 )
 
-FrontLeftArm = Arm({
-    "chA": 3,
-    "chB": 4,
-    "chC": 5,
-    "delta_a": delta_a - 4,
-    "delta_b": 10,
-    "delta_c": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C
-})
-
-FrontRightArm = Arm({
-    "chA": 2,
-    "chB": 0,
-    "chC": 1,
-    "delta_a": delta_a - 3,
-    "delta_b": 0,
-    "delta_c": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackLeftArm = Arm({
-    "chA": 11,
-    "chB": 10,
-    "chC": 12,
-    "delta_a": delta_a,
-    "delta_b": 0,
-    "delta_c": 5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackRightArm = Arm({
-    "chA": 13,
-    "chB": 15,
-    "chC": 14,
-    "delta_a": delta_a,
-    "delta_b": 3,
-    "delta_c": 5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-})
 
 X = 92.5 / 2
 Y = 77 / 2
-
-legs = {
-    "front_left": {
-        "arm": FrontLeftArm,
-        "mount": np.array([X, -Y, 0]),
-        "local_to_body": np.diag([1, -1, 1]),
-    },
-    "front_right": {
-        "arm": FrontRightArm,
-        "mount": np.array([X, Y, 0]),
-        "local_to_body": np.diag([1, 1, 1]),
-    },
-    "back_left": {
-        "arm": BackLeftArm,
-        "mount": np.array([-X, -Y, 0]),
-        "local_to_body": np.diag([-1, -1, 1]),
-    },
-    "back_right": {
-        "arm": BackRightArm,
-        "mount": np.array([-X, Y, 0]),
-        "local_to_body": np.diag([-1, 1, 1]),
-    },
-}
-
-body = Body(legs)
 
 arms = {
     "front_right": FrontRightArm,
@@ -130,7 +56,7 @@ current_points = {
 
 
 def get_point(leg_name, index):
-    return walk_points[leg_name][index]
+    return rotate_right_points[leg_name][index]
 
 
 def set_arm_coord(leg_name, index):
@@ -168,13 +94,11 @@ for leg_name in arms:
         B + C,
     )
 
-time.sleep(3)
+time.sleep(0.1)
 
 # ------------------------------------------------------------------
 # Start first movement
 # ------------------------------------------------------------------
-
-
 
 for leg_name in arms:
     current_points[leg_name] = 0
@@ -224,46 +148,46 @@ while True:
         BackLeftArm.next(),
         BackRightArm.next()
     ]
-    
+    print(n)
     if (n[0] == True):
         current_points[0] += 1
-        if current_points[0] == len(walk_points["front_left"]):
+        if current_points[0] == len(rotate_right_points["front_left"]):
             current_points[0] = 0
         FrontLeftArm.set_position(
-            walk_points["front_left"][current_points[0]]["x"],
-            walk_points["front_left"][current_points[0]]["y"],
-            walk_points["front_left"][current_points[0]]["z"],
-            walk_points["front_left"][current_points[0]]["count"],
+            rotate_right_points["front_left"][current_points[0]]["x"],
+            rotate_right_points["front_left"][current_points[0]]["y"],
+            rotate_right_points["front_left"][current_points[0]]["z"],
+            rotate_right_points["front_left"][current_points[0]]["count"],
             )
     if (n[1] == True):
         current_points[1] += 1
-        if current_points[1] == len(walk_points["front_right"]):
+        if current_points[1] == len(rotate_right_points["front_right"]):
             current_points[1] = 0
         FrontRightArm.set_position(
-            walk_points["front_right"][current_points[1]]["x"],
-            walk_points["front_right"][current_points[1]]["y"],
-            walk_points["front_right"][current_points[1]]["z"],
-            walk_points["front_right"][current_points[1]]["count"],
+            rotate_right_points["front_right"][current_points[1]]["x"],
+            rotate_right_points["front_right"][current_points[1]]["y"],
+            rotate_right_points["front_right"][current_points[1]]["z"],
+            rotate_right_points["front_right"][current_points[1]]["count"],
             )
     if (n[2] == True):
             current_points[2] += 1
-            if current_points[2] == len(walk_points["back_left"]):
+            if current_points[2] == len(rotate_right_points["back_left"]):
                 current_points[2] = 0
             BackLeftArm.set_position(
-                walk_points["back_left"][current_points[2]]["x"],
-                walk_points["back_left"][current_points[2]]["y"],
-                walk_points["back_left"][current_points[2]]["z"],
-                walk_points["back_left"][current_points[2]]["count"],
+                rotate_right_points["back_left"][current_points[2]]["x"],
+                rotate_right_points["back_left"][current_points[2]]["y"],
+                rotate_right_points["back_left"][current_points[2]]["z"],
+                rotate_right_points["back_left"][current_points[2]]["count"],
                 )
     if (n[3] == True):
         current_points[3] += 1
-        if current_points[3] == len(walk_points["back_right"]):
+        if current_points[3] == len(rotate_right_points["back_right"]):
             current_points[3] = 0
         BackRightArm.set_position(
-            walk_points["back_right"][current_points[3]]["x"],
-            walk_points["back_right"][current_points[3]]["y"],
-            walk_points["back_right"][current_points[3]]["z"],
-            walk_points["back_right"][current_points[3]]["count"],
+            rotate_right_points["back_right"][current_points[3]]["x"],
+            rotate_right_points["back_right"][current_points[3]]["y"],
+            rotate_right_points["back_right"][current_points[3]]["z"],
+            rotate_right_points["back_right"][current_points[3]]["count"],
             )
 
     time.sleep(0.002)

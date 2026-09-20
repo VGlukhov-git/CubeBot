@@ -8,13 +8,17 @@ from models.body import Body
 from models.arm import Arm
 from devices.servo_uart import ServoUart
 from points.animation import stand_up_points
-
-servo_device = ServoUart()
-A = 82.8 + 5
-B = 48
-C = 25
-delta_a = 25
-# delta_a = 0
+from config.robot_setup import (
+    A,
+    B,
+    C,
+    arms,
+    body,
+    FrontLeftArm,
+    FrontRightArm,
+    BackLeftArm,
+    BackRightArm
+)
 
 LED1 = 17
 LED2 = 27
@@ -32,82 +36,10 @@ request = gpiod.request_lines(
         for pin in LED_PINS
     },
 )
-
-FrontLeftArm = Arm({
-    "chA": 3,
-    "chB": 4,
-    "chC": 5,
-    "delta_a": delta_a,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C
-})
-
-FrontRightArm = Arm({
-    "chA": 2,
-    "chB": 0,
-    "chC": 1,
-    "delta_a": delta_a,
-    "delta_b": -5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackLeftArm = Arm({
-    "chA": 11,
-    "chB": 10,
-    "chC": 12,
-    "delta_a": delta_a,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
-
-BackRightArm = Arm({
-    "chA": 13,
-    "chB": 15,
-    "chC": 14,
-    "delta_a": delta_a,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-})
-
         
 X = 92.5/2        
 Y = 77/2
 
-legs = {
-    "front_left": {
-        "arm": FrontLeftArm,
-        "mount": np.array([X, -Y, 0]),
-        "local_to_body": np.diag([1, -1, 1]),
-    },
-    "front_right": {
-        "arm": FrontRightArm,
-        "mount": np.array([X, Y, 0]),
-        "local_to_body": np.diag([1, 1, 1]),
-    },
-    "back_left": {
-        "arm": BackLeftArm,
-        "mount": np.array([-X, -Y, 0]),
-        "local_to_body": np.diag([-1, -1, 1]),
-    },
-    "back_right": {
-        "arm": BackRightArm,
-        "mount": np.array([-X, Y, 0]),
-        "local_to_body": np.diag([-1, 1, 1]),
-    },
-}
-
-body = Body(legs)
 count = 100
 
 arms = {
