@@ -241,4 +241,4 @@ while True:
 
         local_yaw = 0.0
 
-    time.sleep(0.003)
+    time.sleep(0.01)

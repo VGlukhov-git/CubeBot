@@ -190,4 +190,4 @@ while True:
             rotate_right_points["back_right"][current_points[3]]["count"],
             )
 
-    time.sleep(0.002)
+    time.sleep(0.02)

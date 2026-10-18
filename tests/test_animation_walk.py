@@ -90,13 +90,6 @@ def set_arm_position(leg_name, index):
 for leg_name in arms:
     set_arm_coord(leg_name, 0)
 
-for leg_name in arms:
-    current_points[leg_name] = 0
-    arms[leg_name].set_coord(
-        0,
-        -A,
-        B + C,
-    )
 
 time.sleep(3)
 

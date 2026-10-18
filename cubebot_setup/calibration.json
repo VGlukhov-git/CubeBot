@@ -1,0 +1,23 @@
+
+{
+  "front-left": {
+    "delta_a": -5,
+    "delta_b": 10,
+    "delta_c": 0
+  },
+  "front-right": {
+    "delta_a": -4.5,
+    "delta_b": 0,
+    "delta_c": 2
+  },
+  "rear-left": {
+    "delta_a": -3.2,
+    "delta_b": 3.7,
+    "delta_c": 8.7
+  },
+  "rear-right": {
+    "delta_a": 0,
+    "delta_b": 3.5,
+    "delta_c": 5
+  }
+}

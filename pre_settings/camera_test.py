@@ -50,7 +50,7 @@ def index():
     <html>
       <body>
         <h1>Raspberry Pi Camera MJPEG Stream</h1>
-        <img src="/video">
+        <img src="/video" width="1080" height="720">
       </body>
     </html>
     """

@@ -3,7 +3,21 @@ import numpy as np
 from models.arm import Arm
 from models.body import Body
 from devices.servo_uart import ServoUart
+import json
 
+# ---------------------------------------------------------
+# Settings
+# ---------------------------------------------------------
+
+SETTINGS_FILE = Path(__file__).resolve().parent / "settings.json"
+CALIBRATION_FILE = BASE_DIR / "calibration.json"
+
+def load_json(path):
+    with path.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+mapper = load_json(SETTINGS_FILE)["mapper"]
+calibration = load_json(CALIBRATION_FILE)
 
 # ---------------------------------------------------------
 # Servo device
@@ -32,60 +46,29 @@ BODY_Y = 77 / 2
 # Arms
 # ---------------------------------------------------------
 
-FrontLeftArm = Arm({
-    "chA": 1,
-    "chB": 2,
-    "chC": 0,
-    "delta_a": delta_a - 4,
-    "delta_b": 10,
-    "delta_c": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C
-})
+def create_arm(name, invert=False):
+    channels = mapper[name]
+    offsets = calibration[name]
 
-FrontRightArm = Arm({
-    "chA": 3,
-    "chB": 4,
-    "chC": 5,
-    "delta_a": delta_a - 3,
-    "delta_b": 0,
-    "delta_c": 0,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
+    return Arm({
+        "chA": channels["hip"],
+        "chB": channels["upperLeg"],
+        "chC": channels["knee"],
+        "delta_a": delta_a + offsets["delta_a"],
+        "delta_b": offsets["delta_b"],
+        "delta_c": offsets["delta_c"],
+        "device": servo_device,
+        "A": A,
+        "B": B,
+        "C": C,
+        "invert": invert
+    })
 
-BackLeftArm = Arm({
-    "chA": 8,
-    "chB": 7,
-    "chC": 6,
-    "delta_a": delta_a,
-    "delta_b": 0,
-    "delta_c": 5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-    "invert": True
-})
 
-BackRightArm = Arm({
-    "chA": 9,
-    "chB": 10,
-    "chC": 11,
-    "delta_a": delta_a,
-    "delta_b": 3,
-    "delta_c": 5,
-    "device": servo_device,
-    "A": A,
-    "B": B,
-    "C": C,
-})
-
+FrontLeftArm = create_arm("front-left")
+FrontRightArm = create_arm("front-right", invert=True)
+BackLeftArm = create_arm("rear-left", invert=True)
+BackRightArm = create_arm("rear-right")
 
 # ---------------------------------------------------------
 # Arms dictionary

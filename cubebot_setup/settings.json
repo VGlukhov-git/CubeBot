@@ -1,0 +1,24 @@
+{
+  "mapper": {
+    "front-left": {
+      "hip": 0,
+      "upperLeg": 2,
+      "knee": 1
+    },
+    "front-right": {
+      "hip": 5,
+      "upperLeg": 3,
+      "knee": 4
+    },
+    "rear-left": {
+      "hip": 6,
+      "upperLeg": 8,
+      "knee": 7
+    },
+    "rear-right": {
+      "hip": 11,
+      "upperLeg": 9,
+      "knee": 10
+    }
+  }
+}

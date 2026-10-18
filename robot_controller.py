@@ -1,9 +1,10 @@
+## Deprecated
 import time
 import gpiod
 import json
 import socket
 import math
-
+ 
 import threading
 import ai.ai_camera as ai_camera
 

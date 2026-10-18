@@ -138,7 +138,7 @@ class LegController:
 class Body:
     def __init__(self, legs):
         self.legs = legs
-
+        self.yaw = 0
         self.R = np.eye(3, dtype=float)
         self.position = np.zeros(3, dtype=float)
 
@@ -363,14 +363,14 @@ class Body:
         yaw=0,
         exclude_legs=None,
     ):
-        roll = math.radians(roll)
-        pitch = math.radians(pitch)
-        yaw = math.radians(yaw)
+        roll_rad = math.radians(roll)
+        pitch_rad = math.radians(pitch)
+        yaw_rad = math.radians(yaw)
 
         new_R = (
-            rot_z(yaw)
-            @ rot_y(pitch)
-            @ rot_x(roll)
+            rot_z(yaw_rad)
+            @ rot_y(pitch_rad)
+            @ rot_x(roll_rad)
         )
 
         self._apply_transform(
@@ -385,10 +385,10 @@ class Body:
         yaw=0,
         exclude_legs=None,
     ):
+        self.yaw += yaw
         roll = math.radians(roll)
         pitch = math.radians(pitch)
         yaw = math.radians(yaw)
-
         delta_R = (
             rot_z(yaw)
             @ rot_y(pitch)
@@ -401,7 +401,17 @@ class Body:
             new_R=new_R,
             exclude_legs=exclude_legs,
         )
+    def reset_rotation(
+        self,
+        exclude_legs=None,
+    ):
+        self._apply_transform(
+            new_R=np.eye(3, dtype=float),
+            exclude_legs=exclude_legs,
+        )
 
+        self.yaw = 0
+        
     def set_position(
         self,
         x=0,
@@ -470,16 +480,11 @@ class Body:
             new_position=new_position,
             exclude_legs=exclude_legs,
         )
-
-    def reset_rotation(
-        self,
-        exclude_legs=None,
-    ):
-        self._apply_transform(
-            new_R=np.eye(3, dtype=float),
-            exclude_legs=exclude_legs,
-        )
-
+    def reset_state(self):
+        self.yaw = 0.0
+        self.R = np.eye(3, dtype=float)
+        self.position = np.zeros(3, dtype=float)
+        
     def reset_position(
         self,
         exclude_legs=None,

@@ -39,4 +39,8 @@ class Wt901:
         return correct_angle(read_word_signed(self.bus, ADDRESS, ROLL_REG))
     def get_pitch(self):
         return correct_angle(read_word_signed(self.bus, ADDRESS, PITCH_REG))
+    def get_yaw(self):
+        return correct_angle(read_word_signed(self.bus, ADDRESS, YAW_REG))
+    def get_temp(self):
+        return read_word_signed(self.bus, ADDRESS, TEMP_REG) / 100
         

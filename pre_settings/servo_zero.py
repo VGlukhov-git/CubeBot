@@ -29,15 +29,15 @@ def set_servo(servo, angle):
 # 11 10 9
 
 servos_0 = [0, 5, 6, 11] ## C
-servos_1 = [1, 3, 8, 9] ## A
-servos_2 = [2, 4, 7, 10] ## B
+servos_1 = [2, 3, 8, 9] ## B
+servos_2 = [1, 4, 7, 10] ## A
 
 deltas_0 =[0, 0, 50, 50] #fr fl bl br
 deltas_1 =[-30, -40, 0, 0] #fr fl bl br
 deltas_2 =[0, 100, 0, 30] #fr fl bl br
 
 
-for i, s in enumerate(servos_1):
+for i, s in enumerate(servos_2):
     set_servo(s, 1800 / 2)
     print(f"Index {i}, Servo {s} set to 90.0°")
     time.sleep(1)

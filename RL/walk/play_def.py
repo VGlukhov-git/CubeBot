@@ -8,7 +8,6 @@ import onnxruntime as ort
 
 from gyro import get_angles
 
-
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(PROJECT_ROOT))
 
@@ -56,27 +55,27 @@ def send_to_robot(names, command):
     # ============================================================
 
     FrontLeftArm.set_angle(
-        180 + positions_deg["revolute_2"] + delta_a,
+        -positions_deg["revolute_2"],
         90 - positions_deg["revolute_11"],
         180 + positions_deg["revolute_9"],
     )
 
     FrontRightArm.set_angle(
-        180 + positions_deg["revolute_1"] + delta_a,
+        -positions_deg["revolute_1"],
         90 + positions_deg["revolute_8"],
         180 - positions_deg["revolute_7"],
     )
 
     BackLeftArm.set_angle(
-        180 - positions_deg["revolute_3"] + delta_a,
+        positions_deg["revolute_3"],
         90 + positions_deg["revolute_12"],
         180 - positions_deg["revolute_10"],
     )
 
     BackRightArm.set_angle(
-        180 - positions_deg["revolute_3"] + delta_a,
+        positions_deg["revolute_4"],
         90 + positions_deg["revolute_6"],
-        180 - positions_deg["revolute_10"],
+        180 + positions_deg["revolute_5"],
     )
 
 

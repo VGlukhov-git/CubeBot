@@ -22,6 +22,7 @@ from config.robot_setup import (
 count = 25
 Z = 60
 
+
 FrontLeftArm.set_coord(45, -40 - count, Z)
 FrontRightArm.set_coord(45, -40 - count, Z)
 BackLeftArm.set_coord(45, -40 - count, Z)

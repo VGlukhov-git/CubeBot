@@ -46,31 +46,6 @@ MAX_JOINT_SPEED_DEG = 120.0
 MAX_ROLL_DEG = 15.0
 MAX_PITCH_DEG = 15.0
 
-
-JOINT_MAP = {
-    "left_back": {
-        "hip": "revolute_10",
-        "middle": "revolute_12",
-        "lower": "revolute_3",
-    },
-    "right_back": {
-        "hip": "revolute_5",
-        "middle": "revolute_6",
-        "lower": "revolute_4",
-    },
-    "right_front": {
-        "hip": "revolute_7",
-        "middle": "revolute_8",
-        "lower": "revolute_1",
-    },
-    "left_front": {
-        "hip": "revolute_9",
-        "middle": "revolute_11",
-        "lower": "revolute_2",
-    },
-}
-
-
 def send_to_robot(names, command):
     """
     Convert MuJoCo joint angles to physical servo angles.
@@ -89,28 +64,31 @@ def send_to_robot(names, command):
     # DO NOT CHANGE LEG MAPPING
     # ------------------------------------------------------------
 
+    
     FrontLeftArm.set_angle(
-        180 + positions_deg["revolute_2"] + delta_a,
+        -positions_deg["revolute_2"],
         90 - positions_deg["revolute_11"],
         180 + positions_deg["revolute_9"],
     )
 
     FrontRightArm.set_angle(
-        180 + positions_deg["revolute_1"] + delta_a,
+        -positions_deg["revolute_1"],
         90 + positions_deg["revolute_8"],
         180 - positions_deg["revolute_7"],
     )
+
     BackLeftArm.set_angle(
-        180 - positions_deg["revolute_3"] + delta_a,
+        positions_deg["revolute_3"],
         90 + positions_deg["revolute_12"],
-        90 + positions_deg["revolute_10"],
+        180 - positions_deg["revolute_10"],
     )
 
     BackRightArm.set_angle(
-        180 - positions_deg["revolute_3"] + delta_a,
+        positions_deg["revolute_4"],
         90 + positions_deg["revolute_6"],
-        180 - positions_deg["revolute_10"],
+        180 + positions_deg["revolute_5"],
     )
+
 
 
 def main():

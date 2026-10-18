@@ -6,7 +6,7 @@ import math
 
 oneStep = 30
 y0 = -100
-z0 = 65
+z0 = 55
 
 stand_up_points = {
     "front_right": [
@@ -31,58 +31,63 @@ stand_up_points = {
     ],
 }
 
-K = 5
+K = 1
 count = 30 * K
-countUp = 15 * K
-kY = 40
+countUp = 10 * K
+kY = 45
 xInit = 0
 oneStep = 25
 S = oneStep * 3
 #y0 = -80
-y0 = -70
+y0 = -70 # 70 is good
 z0 = 70
 
 
-dX = 15
+dX = 10
 dY = -8
 dZ = 10
 
-walk_points = {
-    "front_left": [
-        {"x": 2 * oneStep, "y": y0, "z": z0 - dZ, "count": count},#1
-        {"x": oneStep, "y": y0, "z": z0 + dZ, "count": count},#2
-        {"x": xInit, "y": y0, "z": z0 + dZ, "count": count},#3
-        # UP
-        {"x": 3 * oneStep, "y": y0 + kY, "z": z0, "count": countUp},#4
-        {"x": 3 * oneStep, "y": y0, "z": z0, "count": count - countUp},#4
-    ],
+def get_walk_points(count, countUp, shift):
+    local_dx = shift / 2.5
+    local_dz = abs(shift) / 4
+    return {
+        "front_left": [
+            {"x": 2 * oneStep + 2 * local_dx, "y": y0, "z": z0 - dZ - 2 * local_dz, "count": count},#1
+            {"x": oneStep + local_dx, "y": y0, "z": z0 + dZ - local_dz, "count": count},#2
+            {"x": xInit, "y": y0, "z": z0 + dZ, "count": count},#3
+            # UP
+            {"x": 3 * oneStep + 3 * local_dx, "y": y0 + kY, "z": z0 - 3 * local_dz, "count": countUp},#4
+            {"x": 3 * oneStep + 3 * local_dx, "y": y0, "z": z0 - 3 * local_dz, "count": count - countUp},#4
+        ],
 
-    "front_right": [
-        {"x": xInit, "y": y0, "z": z0 + dZ, "count": count},#1
-        ## UP
-        {"x": 3 * oneStep, "y": y0 + kY, "z": z0 - dZ, "count": countUp},#2
-        {"x": 3 * oneStep, "y": y0, "z": z0 - dZ, "count": count - countUp},#2
-        {"x": 2 * oneStep, "y": y0, "z": z0 - dZ, "count": count},#3
-        {"x": oneStep, "y": y0, "z": z0, "count": count},#4
-    ],
+        "front_right": [
+            {"x": xInit, "y": y0, "z": z0 + dZ, "count": count},#1
+            ## UP
+            {"x": 3 * oneStep - 3 * local_dx, "y": y0 + kY, "z": z0 - dZ - 3 * local_dz, "count": countUp},#2
+            {"x": 3 * oneStep - 3 * local_dx, "y": y0, "z": z0 - dZ - 3 * local_dz, "count": count - countUp},#2
+            {"x": 2 * oneStep - 2 * local_dx, "y": y0, "z": z0 - dZ - 2 * local_dz, "count": count},#3
+            {"x": oneStep - local_dx, "y": y0, "z": z0 - local_dz, "count": count},#4
+        ],
 
-    "back_left": [
-        {"x": 2 * oneStep + dX, "y": y0 + dY, "z": z0 - dZ, "count": count},#1
-        {"x": 3 * oneStep + dX, "y": y0 + dY, "z": z0 + dZ, "count": count},#2
-        ## UP
-        {"x": xInit + dX, "y": y0 + kY + dY, "z": z0 + dZ, "count": countUp},#3
-        {"x": xInit + dX, "y": y0 + dY, "z": z0 + dZ, "count": count - countUp},#3
-        {"x": oneStep + dX, "y": y0 + dY, "z": z0, "count": count},#4
-    ],
+        "back_left": [
+            {"x": 2 * oneStep + dX + 2 * local_dx, "y": y0 + dY, "z": z0 - dZ - 2 * local_dz, "count": count},#1
+            {"x": 3 * oneStep + dX + 3 * local_dx, "y": y0 + dY, "z": z0 + dZ - 3 * local_dz, "count": count},#2
+            ## UP
+            {"x": xInit + dX, "y": y0 + kY + dY, "z": z0 + dZ, "count": countUp},#3
+            {"x": xInit + dX, "y": y0 + dY, "z": z0 + dZ, "count": count - countUp},#3
+            {"x": oneStep + dX + local_dx, "y": y0 + dY, "z": z0 - local_dz, "count": count},#4
+        ],
 
-    "back_right": [
-        {"x": xInit + dX, "y": y0 + kY + dY/1.5, "z": z0 + dZ, "count": countUp},#1
-        {"x": xInit + dX, "y": y0 + dY/1.5, "z": z0 + dZ, "count": count - countUp},#1
-        {"x": oneStep + dX, "y": y0 + dY/1.5, "z": z0 - dZ, "count": count},#2
-        {"x": 2 * oneStep + dX, "y": y0 + dY/1.5, "z": z0 - dZ, "count": count},#3
-        {"x": 3 * oneStep + dX, "y": y0 + dY/1.5, "z": z0, "count": count},#4
-    ],
-}
+        "back_right": [
+            {"x": xInit + dX, "y": y0 + kY + dY/1.5, "z": z0 + dZ, "count": countUp},#1
+            {"x": xInit + dX, "y": y0 + dY/1.5, "z": z0 + dZ, "count": count - countUp},#1
+            {"x": oneStep + dX - local_dx, "y": y0 + dY/1.5, "z": z0 - dZ - local_dz, "count": count},#2
+            {"x": 2 * oneStep + dX - 2 * local_dx, "y": y0 + dY/1.5, "z": z0 - dZ - 2 * local_dz, "count": count},#3
+            {"x": 3 * oneStep + dX - 3 * local_dx, "y": y0 + dY/1.5, "z": z0 - 3 * local_dz, "count": count},#4
+        ],
+    }
+
+walk_points = get_walk_points(count, countUp, 0)
 
 def getX(a):
     return 2 * oneStep * math.cos((a / 180) * math.pi) - z0 * math.sin((a / 180) * math.pi)

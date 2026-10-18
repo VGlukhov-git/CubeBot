@@ -1,0 +1,5404 @@
+{
+  "meshes": [
+    {
+      "name": "Robot case top",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 0, "length": 19872 },
+      "normals": { "offset": 79488, "length": 19872 },
+      "indices": { "offset": 158976, "length": 18678 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 233688, "length": 1788 },
+      "normals": { "offset": 240840, "length": 1788 },
+      "indices": { "offset": 247992, "length": 1602 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 254400, "length": 1788 },
+      "normals": { "offset": 261552, "length": 1788 },
+      "indices": { "offset": 268704, "length": 1602 }
+    },
+    {
+      "name": "connector",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 275112, "length": 72 },
+      "normals": { "offset": 275400, "length": 72 },
+      "indices": { "offset": 275688, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 275832, "length": 204 },
+      "normals": { "offset": 276648, "length": 204 },
+      "indices": { "offset": 277464, "length": 120 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 277944, "length": 144 },
+      "normals": { "offset": 278520, "length": 144 },
+      "indices": { "offset": 279096, "length": 84 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 279432, "length": 204 },
+      "normals": { "offset": 280248, "length": 204 },
+      "indices": { "offset": 281064, "length": 120 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 281544, "length": 144 },
+      "normals": { "offset": 282120, "length": 144 },
+      "indices": { "offset": 282696, "length": 84 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 283032, "length": 72 },
+      "normals": { "offset": 283320, "length": 72 },
+      "indices": { "offset": 283608, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 283752, "length": 72 },
+      "normals": { "offset": 284040, "length": 72 },
+      "indices": { "offset": 284328, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 284472, "length": 72 },
+      "normals": { "offset": 284760, "length": 72 },
+      "indices": { "offset": 285048, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 285192, "length": 1728 },
+      "normals": { "offset": 292104, "length": 1728 },
+      "indices": { "offset": 299016, "length": 1404 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 304632, "length": 72 },
+      "normals": { "offset": 304920, "length": 72 },
+      "indices": { "offset": 305208, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 305352, "length": 72 },
+      "normals": { "offset": 305640, "length": 72 },
+      "indices": { "offset": 305928, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 306072, "length": 72 },
+      "normals": { "offset": 306360, "length": 72 },
+      "indices": { "offset": 306648, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 306792, "length": 72 },
+      "normals": { "offset": 307080, "length": 72 },
+      "indices": { "offset": 307368, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 307512, "length": 72 },
+      "normals": { "offset": 307800, "length": 72 },
+      "indices": { "offset": 308088, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 308232, "length": 72 },
+      "normals": { "offset": 308520, "length": 72 },
+      "indices": { "offset": 308808, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 308952, "length": 72 },
+      "normals": { "offset": 309240, "length": 72 },
+      "indices": { "offset": 309528, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 309672, "length": 72 },
+      "normals": { "offset": 309960, "length": 72 },
+      "indices": { "offset": 310248, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 310392, "length": 72 },
+      "normals": { "offset": 310680, "length": 72 },
+      "indices": { "offset": 310968, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 311112, "length": 72 },
+      "normals": { "offset": 311400, "length": 72 },
+      "indices": { "offset": 311688, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 311832, "length": 72 },
+      "normals": { "offset": 312120, "length": 72 },
+      "indices": { "offset": 312408, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 312552, "length": 72 },
+      "normals": { "offset": 312840, "length": 72 },
+      "indices": { "offset": 313128, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 313272, "length": 72 },
+      "normals": { "offset": 313560, "length": 72 },
+      "indices": { "offset": 313848, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 313992, "length": 72 },
+      "normals": { "offset": 314280, "length": 72 },
+      "indices": { "offset": 314568, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 314712, "length": 72 },
+      "normals": { "offset": 315000, "length": 72 },
+      "indices": { "offset": 315288, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 315432, "length": 72 },
+      "normals": { "offset": 315720, "length": 72 },
+      "indices": { "offset": 316008, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 316152, "length": 72 },
+      "normals": { "offset": 316440, "length": 72 },
+      "indices": { "offset": 316728, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 316872, "length": 72 },
+      "normals": { "offset": 317160, "length": 72 },
+      "indices": { "offset": 317448, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 317592, "length": 72 },
+      "normals": { "offset": 317880, "length": 72 },
+      "indices": { "offset": 318168, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 318312, "length": 72 },
+      "normals": { "offset": 318600, "length": 72 },
+      "indices": { "offset": 318888, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 319032, "length": 72 },
+      "normals": { "offset": 319320, "length": 72 },
+      "indices": { "offset": 319608, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 319752, "length": 72 },
+      "normals": { "offset": 320040, "length": 72 },
+      "indices": { "offset": 320328, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 320472, "length": 72 },
+      "normals": { "offset": 320760, "length": 72 },
+      "indices": { "offset": 321048, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 321192, "length": 72 },
+      "normals": { "offset": 321480, "length": 72 },
+      "indices": { "offset": 321768, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 321912, "length": 72 },
+      "normals": { "offset": 322200, "length": 72 },
+      "indices": { "offset": 322488, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 322632, "length": 72 },
+      "normals": { "offset": 322920, "length": 72 },
+      "indices": { "offset": 323208, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 323352, "length": 72 },
+      "normals": { "offset": 323640, "length": 72 },
+      "indices": { "offset": 323928, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 324072, "length": 72 },
+      "normals": { "offset": 324360, "length": 72 },
+      "indices": { "offset": 324648, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 324792, "length": 72 },
+      "normals": { "offset": 325080, "length": 72 },
+      "indices": { "offset": 325368, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 325512, "length": 72 },
+      "normals": { "offset": 325800, "length": 72 },
+      "indices": { "offset": 326088, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 326232, "length": 72 },
+      "normals": { "offset": 326520, "length": 72 },
+      "indices": { "offset": 326808, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 326952, "length": 72 },
+      "normals": { "offset": 327240, "length": 72 },
+      "indices": { "offset": 327528, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 327672, "length": 72 },
+      "normals": { "offset": 327960, "length": 72 },
+      "indices": { "offset": 328248, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 328392, "length": 72 },
+      "normals": { "offset": 328680, "length": 72 },
+      "indices": { "offset": 328968, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 329112, "length": 72 },
+      "normals": { "offset": 329400, "length": 72 },
+      "indices": { "offset": 329688, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 329832, "length": 72 },
+      "normals": { "offset": 330120, "length": 72 },
+      "indices": { "offset": 330408, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 330552, "length": 72 },
+      "normals": { "offset": 330840, "length": 72 },
+      "indices": { "offset": 331128, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 331272, "length": 72 },
+      "normals": { "offset": 331560, "length": 72 },
+      "indices": { "offset": 331848, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 331992, "length": 72 },
+      "normals": { "offset": 332280, "length": 72 },
+      "indices": { "offset": 332568, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 332712, "length": 72 },
+      "normals": { "offset": 333000, "length": 72 },
+      "indices": { "offset": 333288, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 333432, "length": 1032 },
+      "normals": { "offset": 337560, "length": 1032 },
+      "indices": { "offset": 341688, "length": 996 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 345672, "length": 504 },
+      "normals": { "offset": 347688, "length": 504 },
+      "indices": { "offset": 349704, "length": 420 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 351384, "length": 504 },
+      "normals": { "offset": 353400, "length": 504 },
+      "indices": { "offset": 355416, "length": 420 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 357096, "length": 504 },
+      "normals": { "offset": 359112, "length": 504 },
+      "indices": { "offset": 361128, "length": 420 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 362808, "length": 504 },
+      "normals": { "offset": 364824, "length": 504 },
+      "indices": { "offset": 366840, "length": 420 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 368520, "length": 72 },
+      "normals": { "offset": 368808, "length": 72 },
+      "indices": { "offset": 369096, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 369240, "length": 405 },
+      "normals": { "offset": 370860, "length": 405 },
+      "indices": { "offset": 372480, "length": 603 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 374892, "length": 636 },
+      "normals": { "offset": 377436, "length": 636 },
+      "indices": { "offset": 379980, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 382476, "length": 636 },
+      "normals": { "offset": 385020, "length": 636 },
+      "indices": { "offset": 387564, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 390060, "length": 636 },
+      "normals": { "offset": 392604, "length": 636 },
+      "indices": { "offset": 395148, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 397644, "length": 636 },
+      "normals": { "offset": 400188, "length": 636 },
+      "indices": { "offset": 402732, "length": 624 }
+    },
+    {
+      "name": "pcb",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 405228, "length": 2880 },
+      "normals": { "offset": 416748, "length": 2880 },
+      "indices": { "offset": 428268, "length": 2856 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 439692, "length": 72 },
+      "normals": { "offset": 439980, "length": 72 },
+      "indices": { "offset": 440268, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 440412, "length": 912 },
+      "normals": { "offset": 444060, "length": 912 },
+      "indices": { "offset": 447708, "length": 912 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 451356, "length": 144 },
+      "normals": { "offset": 451932, "length": 144 },
+      "indices": { "offset": 452508, "length": 84 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 452844, "length": 72 },
+      "normals": { "offset": 453132, "length": 72 },
+      "indices": { "offset": 453420, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 453564, "length": 72 },
+      "normals": { "offset": 453852, "length": 72 },
+      "indices": { "offset": 454140, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 454284, "length": 72 },
+      "normals": { "offset": 454572, "length": 72 },
+      "indices": { "offset": 454860, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 455004, "length": 72 },
+      "normals": { "offset": 455292, "length": 72 },
+      "indices": { "offset": 455580, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 455724, "length": 72 },
+      "normals": { "offset": 456012, "length": 72 },
+      "indices": { "offset": 456300, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 456444, "length": 72 },
+      "normals": { "offset": 456732, "length": 72 },
+      "indices": { "offset": 457020, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 457164, "length": 72 },
+      "normals": { "offset": 457452, "length": 72 },
+      "indices": { "offset": 457740, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 457884, "length": 72 },
+      "normals": { "offset": 458172, "length": 72 },
+      "indices": { "offset": 458460, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 458604, "length": 72 },
+      "normals": { "offset": 458892, "length": 72 },
+      "indices": { "offset": 459180, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 459324, "length": 72 },
+      "normals": { "offset": 459612, "length": 72 },
+      "indices": { "offset": 459900, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 460044, "length": 72 },
+      "normals": { "offset": 460332, "length": 72 },
+      "indices": { "offset": 460620, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 460764, "length": 72 },
+      "normals": { "offset": 461052, "length": 72 },
+      "indices": { "offset": 461340, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 461484, "length": 72 },
+      "normals": { "offset": 461772, "length": 72 },
+      "indices": { "offset": 462060, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 462204, "length": 72 },
+      "normals": { "offset": 462492, "length": 72 },
+      "indices": { "offset": 462780, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 462924, "length": 72 },
+      "normals": { "offset": 463212, "length": 72 },
+      "indices": { "offset": 463500, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 463644, "length": 144 },
+      "normals": { "offset": 464220, "length": 144 },
+      "indices": { "offset": 464796, "length": 84 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 465132, "length": 144 },
+      "normals": { "offset": 465708, "length": 144 },
+      "indices": { "offset": 466284, "length": 96 }
+    },
+    {
+      "name": "pmic",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 466668, "length": 72 },
+      "normals": { "offset": 466956, "length": 72 },
+      "indices": { "offset": 467244, "length": 36 }
+    },
+    {
+      "name": "poe Geometry",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 467388, "length": 72 },
+      "normals": { "offset": 467676, "length": 72 },
+      "indices": { "offset": 467964, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 468108, "length": 72 },
+      "normals": { "offset": 468396, "length": 72 },
+      "indices": { "offset": 468684, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 468828, "length": 72 },
+      "normals": { "offset": 469116, "length": 72 },
+      "indices": { "offset": 469404, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 469548, "length": 72 },
+      "normals": { "offset": 469836, "length": 72 },
+      "indices": { "offset": 470124, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 470268, "length": 72 },
+      "normals": { "offset": 470556, "length": 72 },
+      "indices": { "offset": 470844, "length": 36 }
+    },
+    {
+      "name": "pwr-connector",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 470988, "length": 72 },
+      "normals": { "offset": 471276, "length": 72 },
+      "indices": { "offset": 471564, "length": 36 }
+    },
+    {
+      "name": "rp1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 471708, "length": 72 },
+      "normals": { "offset": 471996, "length": 72 },
+      "indices": { "offset": 472284, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 472428, "length": 72 },
+      "normals": { "offset": 472716, "length": 72 },
+      "indices": { "offset": 473004, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 473148, "length": 432 },
+      "normals": { "offset": 474876, "length": 432 },
+      "indices": { "offset": 476604, "length": 372 }
+    },
+    {
+      "name": "uart",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 478092, "length": 72 },
+      "normals": { "offset": 478380, "length": 72 },
+      "indices": { "offset": 478668, "length": 36 }
+    },
+    {
+      "name": "usb-2-bank Geometry",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 478812, "length": 72 },
+      "normals": { "offset": 479100, "length": 72 },
+      "indices": { "offset": 479388, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 479532, "length": 252 },
+      "normals": { "offset": 480540, "length": 252 },
+      "indices": { "offset": 481548, "length": 204 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 482364, "length": 72 },
+      "normals": { "offset": 482652, "length": 72 },
+      "indices": { "offset": 482940, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 483084, "length": 252 },
+      "normals": { "offset": 484092, "length": 252 },
+      "indices": { "offset": 485100, "length": 204 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 485916, "length": 72 },
+      "normals": { "offset": 486204, "length": 72 },
+      "indices": { "offset": 486492, "length": 36 }
+    },
+    {
+      "name": "usb-3-bank Geometry",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 486636, "length": 72 },
+      "normals": { "offset": 486924, "length": 72 },
+      "indices": { "offset": 487212, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 487356, "length": 252 },
+      "normals": { "offset": 488364, "length": 252 },
+      "indices": { "offset": 489372, "length": 204 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 490188, "length": 72 },
+      "normals": { "offset": 490476, "length": 72 },
+      "indices": { "offset": 490764, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 490908, "length": 252 },
+      "normals": { "offset": 491916, "length": 252 },
+      "indices": { "offset": 492924, "length": 204 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 493740, "length": 72 },
+      "normals": { "offset": 494028, "length": 72 },
+      "indices": { "offset": 494316, "length": 36 }
+    },
+    {
+      "name": "usb-c",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 494460, "length": 432 },
+      "normals": { "offset": 496188, "length": 432 },
+      "indices": { "offset": 497916, "length": 372 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 499404, "length": 1788 },
+      "normals": { "offset": 506556, "length": 1788 },
+      "indices": { "offset": 513708, "length": 1602 }
+    },
+    {
+      "name": "Leg middle",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 520116, "length": 3972 },
+      "normals": { "offset": 536004, "length": 3972 },
+      "indices": { "offset": 551892, "length": 3900 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 567492, "length": 1788 },
+      "normals": { "offset": 574644, "length": 1788 },
+      "indices": { "offset": 581796, "length": 1602 }
+    },
+    {
+      "name": "Leg",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 588204, "length": 3909 },
+      "normals": { "offset": 603840, "length": 3909 },
+      "indices": { "offset": 619476, "length": 3885 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 635016, "length": 1788 },
+      "normals": { "offset": 642168, "length": 1788 },
+      "indices": { "offset": 649320, "length": 1602 }
+    },
+    {
+      "name": "Leg middle",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 655728, "length": 3972 },
+      "normals": { "offset": 671616, "length": 3972 },
+      "indices": { "offset": 687504, "length": 3900 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 703104, "length": 1788 },
+      "normals": { "offset": 710256, "length": 1788 },
+      "indices": { "offset": 717408, "length": 1602 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 723816, "length": 1788 },
+      "normals": { "offset": 730968, "length": 1788 },
+      "indices": { "offset": 738120, "length": 1602 }
+    },
+    {
+      "name": "Leg",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 744528, "length": 3909 },
+      "normals": { "offset": 760164, "length": 3909 },
+      "indices": { "offset": 775800, "length": 3885 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 791340, "length": 1788 },
+      "normals": { "offset": 798492, "length": 1788 },
+      "indices": { "offset": 805644, "length": 1602 }
+    },
+    {
+      "name": "Leg connector",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 812052, "length": 2886 },
+      "normals": { "offset": 823596, "length": 2886 },
+      "indices": { "offset": 835140, "length": 2802 }
+    },
+    {
+      "name": "Leg connector",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 846348, "length": 2886 },
+      "normals": { "offset": 857892, "length": 2886 },
+      "indices": { "offset": 869436, "length": 2802 }
+    },
+    {
+      "name": "Foot 2",
+      "color": [0.06480326503515244, 0.06480326503515244, 0.06480326503515244],
+      "positions": { "offset": 880644, "length": 1623 },
+      "normals": { "offset": 887136, "length": 1623 },
+      "indices": { "offset": 893628, "length": 2082 }
+    },
+    {
+      "name": "Foot 2",
+      "color": [0.06480326503515244, 0.06480326503515244, 0.06480326503515244],
+      "positions": { "offset": 901956, "length": 1623 },
+      "normals": { "offset": 908448, "length": 1623 },
+      "indices": { "offset": 914940, "length": 2082 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 923268, "length": 1788 },
+      "normals": { "offset": 930420, "length": 1788 },
+      "indices": { "offset": 937572, "length": 1602 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 943980, "length": 1788 },
+      "normals": { "offset": 951132, "length": 1788 },
+      "indices": { "offset": 958284, "length": 1602 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 964692, "length": 1788 },
+      "normals": { "offset": 971844, "length": 1788 },
+      "indices": { "offset": 978996, "length": 1602 }
+    },
+    {
+      "name": "Servo S",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 985404, "length": 1788 },
+      "normals": { "offset": 992556, "length": 1788 },
+      "indices": { "offset": 999708, "length": 1602 }
+    },
+    {
+      "name": "Leg middle",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1006116, "length": 3972 },
+      "normals": { "offset": 1022004, "length": 3972 },
+      "indices": { "offset": 1037892, "length": 3900 }
+    },
+    {
+      "name": "Leg middle",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1053492, "length": 3972 },
+      "normals": { "offset": 1069380, "length": 3972 },
+      "indices": { "offset": 1085268, "length": 3900 }
+    },
+    {
+      "name": "Leg",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1100868, "length": 3909 },
+      "normals": { "offset": 1116504, "length": 3909 },
+      "indices": { "offset": 1132140, "length": 3885 }
+    },
+    {
+      "name": "Leg",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1147680, "length": 3909 },
+      "normals": { "offset": 1163316, "length": 3909 },
+      "indices": { "offset": 1178952, "length": 3885 }
+    },
+    {
+      "name": "Foot 2",
+      "color": [0.06480326503515244, 0.06480326503515244, 0.06480326503515244],
+      "positions": { "offset": 1194492, "length": 1623 },
+      "normals": { "offset": 1200984, "length": 1623 },
+      "indices": { "offset": 1207476, "length": 2082 }
+    },
+    {
+      "name": "Foot 2",
+      "color": [0.06480326503515244, 0.06480326503515244, 0.06480326503515244],
+      "positions": { "offset": 1215804, "length": 1623 },
+      "normals": { "offset": 1222296, "length": 1623 },
+      "indices": { "offset": 1228788, "length": 2082 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1237116, "length": 786 },
+      "normals": { "offset": 1240260, "length": 786 },
+      "indices": { "offset": 1243404, "length": 648 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1245996, "length": 702 },
+      "normals": { "offset": 1248804, "length": 702 },
+      "indices": { "offset": 1251612, "length": 600 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1254012, "length": 714 },
+      "normals": { "offset": 1256868, "length": 714 },
+      "indices": { "offset": 1259724, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1262412, "length": 714 },
+      "normals": { "offset": 1265268, "length": 714 },
+      "indices": { "offset": 1268124, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1270812, "length": 714 },
+      "normals": { "offset": 1273668, "length": 714 },
+      "indices": { "offset": 1276524, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1279212, "length": 72 },
+      "normals": { "offset": 1279500, "length": 72 },
+      "indices": { "offset": 1279788, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1279932, "length": 822 },
+      "normals": { "offset": 1283220, "length": 822 },
+      "indices": { "offset": 1286508, "length": 696 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1289292, "length": 570 },
+      "normals": { "offset": 1291572, "length": 570 },
+      "indices": { "offset": 1293852, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1295964, "length": 570 },
+      "normals": { "offset": 1298244, "length": 570 },
+      "indices": { "offset": 1300524, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1302636, "length": 714 },
+      "normals": { "offset": 1305492, "length": 714 },
+      "indices": { "offset": 1308348, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1311036, "length": 5424 },
+      "normals": { "offset": 1332732, "length": 5424 },
+      "indices": { "offset": 1354428, "length": 4668 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1373100, "length": 918 },
+      "normals": { "offset": 1376772, "length": 918 },
+      "indices": { "offset": 1380444, "length": 798 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1383636, "length": 714 },
+      "normals": { "offset": 1386492, "length": 714 },
+      "indices": { "offset": 1389348, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1392036, "length": 714 },
+      "normals": { "offset": 1394892, "length": 714 },
+      "indices": { "offset": 1397748, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1400436, "length": 714 },
+      "normals": { "offset": 1403292, "length": 714 },
+      "indices": { "offset": 1406148, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1408836, "length": 1884 },
+      "normals": { "offset": 1416372, "length": 1884 },
+      "indices": { "offset": 1423908, "length": 1572 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1430196, "length": 1008 },
+      "normals": { "offset": 1434228, "length": 1008 },
+      "indices": { "offset": 1438260, "length": 864 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1441716, "length": 714 },
+      "normals": { "offset": 1444572, "length": 714 },
+      "indices": { "offset": 1447428, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1450116, "length": 714 },
+      "normals": { "offset": 1452972, "length": 714 },
+      "indices": { "offset": 1455828, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1458516, "length": 714 },
+      "normals": { "offset": 1461372, "length": 714 },
+      "indices": { "offset": 1464228, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1466916, "length": 822 },
+      "normals": { "offset": 1470204, "length": 822 },
+      "indices": { "offset": 1473492, "length": 678 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1476204, "length": 840 },
+      "normals": { "offset": 1479564, "length": 840 },
+      "indices": { "offset": 1482924, "length": 714 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1485780, "length": 714 },
+      "normals": { "offset": 1488636, "length": 714 },
+      "indices": { "offset": 1491492, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1494180, "length": 570 },
+      "normals": { "offset": 1496460, "length": 570 },
+      "indices": { "offset": 1498740, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1500852, "length": 714 },
+      "normals": { "offset": 1503708, "length": 714 },
+      "indices": { "offset": 1506564, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1509252, "length": 822 },
+      "normals": { "offset": 1512540, "length": 822 },
+      "indices": { "offset": 1515828, "length": 678 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1518540, "length": 72 },
+      "normals": { "offset": 1518828, "length": 72 },
+      "indices": { "offset": 1519116, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1519260, "length": 570 },
+      "normals": { "offset": 1521540, "length": 570 },
+      "indices": { "offset": 1523820, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1525932, "length": 714 },
+      "normals": { "offset": 1528788, "length": 714 },
+      "indices": { "offset": 1531644, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1534332, "length": 714 },
+      "normals": { "offset": 1537188, "length": 714 },
+      "indices": { "offset": 1540044, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1542732, "length": 72 },
+      "normals": { "offset": 1543020, "length": 72 },
+      "indices": { "offset": 1543308, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1543452, "length": 714 },
+      "normals": { "offset": 1546308, "length": 714 },
+      "indices": { "offset": 1549164, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1551852, "length": 714 },
+      "normals": { "offset": 1554708, "length": 714 },
+      "indices": { "offset": 1557564, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1560252, "length": 714 },
+      "normals": { "offset": 1563108, "length": 714 },
+      "indices": { "offset": 1565964, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1568652, "length": 714 },
+      "normals": { "offset": 1571508, "length": 714 },
+      "indices": { "offset": 1574364, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1577052, "length": 714 },
+      "normals": { "offset": 1579908, "length": 714 },
+      "indices": { "offset": 1582764, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1585452, "length": 72 },
+      "normals": { "offset": 1585740, "length": 72 },
+      "indices": { "offset": 1586028, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1586172, "length": 714 },
+      "normals": { "offset": 1589028, "length": 714 },
+      "indices": { "offset": 1591884, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1594572, "length": 870 },
+      "normals": { "offset": 1598052, "length": 870 },
+      "indices": { "offset": 1601532, "length": 768 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1604604, "length": 72 },
+      "normals": { "offset": 1604892, "length": 72 },
+      "indices": { "offset": 1605180, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1605324, "length": 570 },
+      "normals": { "offset": 1607604, "length": 570 },
+      "indices": { "offset": 1609884, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1611996, "length": 714 },
+      "normals": { "offset": 1614852, "length": 714 },
+      "indices": { "offset": 1617708, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1620396, "length": 72 },
+      "normals": { "offset": 1620684, "length": 72 },
+      "indices": { "offset": 1620972, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1621116, "length": 72 },
+      "normals": { "offset": 1621404, "length": 72 },
+      "indices": { "offset": 1621692, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1621836, "length": 72 },
+      "normals": { "offset": 1622124, "length": 72 },
+      "indices": { "offset": 1622412, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1622556, "length": 714 },
+      "normals": { "offset": 1625412, "length": 714 },
+      "indices": { "offset": 1628268, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1630956, "length": 9336 },
+      "normals": { "offset": 1668300, "length": 9336 },
+      "indices": { "offset": 1705644, "length": 8292 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1738812, "length": 432 },
+      "normals": { "offset": 1740540, "length": 432 },
+      "indices": { "offset": 1742268, "length": 312 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1743516, "length": 714 },
+      "normals": { "offset": 1746372, "length": 714 },
+      "indices": { "offset": 1749228, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1751916, "length": 570 },
+      "normals": { "offset": 1754196, "length": 570 },
+      "indices": { "offset": 1756476, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1758588, "length": 570 },
+      "normals": { "offset": 1760868, "length": 570 },
+      "indices": { "offset": 1763148, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1765260, "length": 714 },
+      "normals": { "offset": 1768116, "length": 714 },
+      "indices": { "offset": 1770972, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1773660, "length": 72 },
+      "normals": { "offset": 1773948, "length": 72 },
+      "indices": { "offset": 1774236, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1774380, "length": 72 },
+      "normals": { "offset": 1774668, "length": 72 },
+      "indices": { "offset": 1774956, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1775100, "length": 606 },
+      "normals": { "offset": 1777524, "length": 606 },
+      "indices": { "offset": 1779948, "length": 492 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1781916, "length": 570 },
+      "normals": { "offset": 1784196, "length": 570 },
+      "indices": { "offset": 1786476, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1788588, "length": 636 },
+      "normals": { "offset": 1791132, "length": 636 },
+      "indices": { "offset": 1793676, "length": 624 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1796172, "length": 390 },
+      "normals": { "offset": 1797732, "length": 390 },
+      "indices": { "offset": 1799292, "length": 300 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1800492, "length": 570 },
+      "normals": { "offset": 1802772, "length": 570 },
+      "indices": { "offset": 1805052, "length": 528 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1807164, "length": 714 },
+      "normals": { "offset": 1810020, "length": 714 },
+      "indices": { "offset": 1812876, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1815564, "length": 714 },
+      "normals": { "offset": 1818420, "length": 714 },
+      "indices": { "offset": 1821276, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1823964, "length": 72 },
+      "normals": { "offset": 1824252, "length": 72 },
+      "indices": { "offset": 1824540, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1824684, "length": 918 },
+      "normals": { "offset": 1828356, "length": 918 },
+      "indices": { "offset": 1832028, "length": 798 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1835220, "length": 636 },
+      "normals": { "offset": 1837764, "length": 636 },
+      "indices": { "offset": 1840308, "length": 624 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1842804, "length": 714 },
+      "normals": { "offset": 1845660, "length": 714 },
+      "indices": { "offset": 1848516, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1851204, "length": 906 },
+      "normals": { "offset": 1854828, "length": 906 },
+      "indices": { "offset": 1858452, "length": 780 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1861572, "length": 714 },
+      "normals": { "offset": 1864428, "length": 714 },
+      "indices": { "offset": 1867284, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1869972, "length": 714 },
+      "normals": { "offset": 1872828, "length": 714 },
+      "indices": { "offset": 1875684, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1878372, "length": 714 },
+      "normals": { "offset": 1881228, "length": 714 },
+      "indices": { "offset": 1884084, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1886772, "length": 72 },
+      "normals": { "offset": 1887060, "length": 72 },
+      "indices": { "offset": 1887348, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1887492, "length": 606 },
+      "normals": { "offset": 1889916, "length": 606 },
+      "indices": { "offset": 1892340, "length": 492 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1894308, "length": 714 },
+      "normals": { "offset": 1897164, "length": 714 },
+      "indices": { "offset": 1900020, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1902708, "length": 1290 },
+      "normals": { "offset": 1907868, "length": 1290 },
+      "indices": { "offset": 1913028, "length": 1080 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1917348, "length": 714 },
+      "normals": { "offset": 1920204, "length": 714 },
+      "indices": { "offset": 1923060, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1925748, "length": 714 },
+      "normals": { "offset": 1928604, "length": 714 },
+      "indices": { "offset": 1931460, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1934148, "length": 72 },
+      "normals": { "offset": 1934436, "length": 72 },
+      "indices": { "offset": 1934724, "length": 36 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1934868, "length": 390 },
+      "normals": { "offset": 1936428, "length": 390 },
+      "indices": { "offset": 1937988, "length": 300 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1939188, "length": 636 },
+      "normals": { "offset": 1941732, "length": 636 },
+      "indices": { "offset": 1944276, "length": 624 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1946772, "length": 786 },
+      "normals": { "offset": 1949916, "length": 786 },
+      "indices": { "offset": 1953060, "length": 624 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1955556, "length": 714 },
+      "normals": { "offset": 1958412, "length": 714 },
+      "indices": { "offset": 1961268, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1963956, "length": 636 },
+      "normals": { "offset": 1966500, "length": 636 },
+      "indices": { "offset": 1969044, "length": 624 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 1971540, "length": 10332 },
+      "normals": { "offset": 2012868, "length": 10332 },
+      "indices": { "offset": 2054196, "length": 10332 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2095524, "length": 714 },
+      "normals": { "offset": 2098380, "length": 714 },
+      "indices": { "offset": 2101236, "length": 672 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2103924, "length": 882 },
+      "normals": { "offset": 2107452, "length": 882 },
+      "indices": { "offset": 2110980, "length": 762 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2114028, "length": 1302 },
+      "normals": { "offset": 2119236, "length": 1302 },
+      "indices": { "offset": 2124444, "length": 1080 }
+    },
+    {
+      "name": "________ ____ v2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2128764, "length": 912 },
+      "normals": { "offset": 2132412, "length": 912 },
+      "indices": { "offset": 2136060, "length": 774 }
+    },
+    {
+      "name": "Raspberry Pi AI HAT+",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2139156, "length": 8688 },
+      "normals": { "offset": 2173908, "length": 8688 },
+      "indices": { "offset": 2208660, "length": 8340 }
+    },
+    {
+      "name": "Battery",
+      "color": [0.6038273572921753, 0.13286831974983215, 0],
+      "positions": { "offset": 2242020, "length": 1614 },
+      "normals": { "offset": 2248476, "length": 1614 },
+      "indices": { "offset": 2254932, "length": 2484 }
+    },
+    {
+      "name": "Battery",
+      "color": [0.6038273572921753, 0.13286831974983215, 0],
+      "positions": { "offset": 2264868, "length": 1614 },
+      "normals": { "offset": 2271324, "length": 1614 },
+      "indices": { "offset": 2277780, "length": 2484 }
+    },
+    {
+      "name": "Battery",
+      "color": [0.6038273572921753, 0.13286831974983215, 0],
+      "positions": { "offset": 2287716, "length": 1614 },
+      "normals": { "offset": 2294172, "length": 1614 },
+      "indices": { "offset": 2300628, "length": 2484 }
+    },
+    {
+      "name": "Battery",
+      "color": [0.6038273572921753, 0.13286831974983215, 0],
+      "positions": { "offset": 2310564, "length": 1614 },
+      "normals": { "offset": 2317020, "length": 1614 },
+      "indices": { "offset": 2323476, "length": 2484 }
+    },
+    {
+      "name": "_PWDN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2333412, "length": 72 },
+      "normals": { "offset": 2333700, "length": 72 },
+      "indices": { "offset": 2333988, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2334132, "length": 72 },
+      "normals": { "offset": 2334420, "length": 72 },
+      "indices": { "offset": 2334708, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2334852, "length": 72 },
+      "normals": { "offset": 2335140, "length": 72 },
+      "indices": { "offset": 2335428, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2335572, "length": 72 },
+      "normals": { "offset": 2335860, "length": 72 },
+      "indices": { "offset": 2336148, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2336292, "length": 72 },
+      "normals": { "offset": 2336580, "length": 72 },
+      "indices": { "offset": 2336868, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2337012, "length": 72 },
+      "normals": { "offset": 2337300, "length": 72 },
+      "indices": { "offset": 2337588, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2337732, "length": 72 },
+      "normals": { "offset": 2338020, "length": 72 },
+      "indices": { "offset": 2338308, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2338452, "length": 72 },
+      "normals": { "offset": 2338740, "length": 72 },
+      "indices": { "offset": 2339028, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2339172, "length": 72 },
+      "normals": { "offset": 2339460, "length": 72 },
+      "indices": { "offset": 2339748, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2339892, "length": 72 },
+      "normals": { "offset": 2340180, "length": 72 },
+      "indices": { "offset": 2340468, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2340612, "length": 72 },
+      "normals": { "offset": 2340900, "length": 72 },
+      "indices": { "offset": 2341188, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2341332, "length": 72 },
+      "normals": { "offset": 2341620, "length": 72 },
+      "indices": { "offset": 2341908, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2342052, "length": 72 },
+      "normals": { "offset": 2342340, "length": 72 },
+      "indices": { "offset": 2342628, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2342772, "length": 72 },
+      "normals": { "offset": 2343060, "length": 72 },
+      "indices": { "offset": 2343348, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2343492, "length": 72 },
+      "normals": { "offset": 2343780, "length": 72 },
+      "indices": { "offset": 2344068, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2344212, "length": 72 },
+      "normals": { "offset": 2344500, "length": 72 },
+      "indices": { "offset": 2344788, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2344932, "length": 72 },
+      "normals": { "offset": 2345220, "length": 72 },
+      "indices": { "offset": 2345508, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2345652, "length": 72 },
+      "normals": { "offset": 2345940, "length": 72 },
+      "indices": { "offset": 2346228, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2346372, "length": 72 },
+      "normals": { "offset": 2346660, "length": 72 },
+      "indices": { "offset": 2346948, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2347092, "length": 72 },
+      "normals": { "offset": 2347380, "length": 72 },
+      "indices": { "offset": 2347668, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2347812, "length": 72 },
+      "normals": { "offset": 2348100, "length": 72 },
+      "indices": { "offset": 2348388, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2348532, "length": 72 },
+      "normals": { "offset": 2348820, "length": 72 },
+      "indices": { "offset": 2349108, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2349252, "length": 72 },
+      "normals": { "offset": 2349540, "length": 72 },
+      "indices": { "offset": 2349828, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2349972, "length": 72 },
+      "normals": { "offset": 2350260, "length": 72 },
+      "indices": { "offset": 2350548, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2350692, "length": 72 },
+      "normals": { "offset": 2350980, "length": 72 },
+      "indices": { "offset": 2351268, "length": 36 }
+    },
+    {
+      "name": "1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2351412, "length": 72 },
+      "normals": { "offset": 2351700, "length": 72 },
+      "indices": { "offset": 2351988, "length": 36 }
+    },
+    {
+      "name": "10",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2352132, "length": 72 },
+      "normals": { "offset": 2352420, "length": 72 },
+      "indices": { "offset": 2352708, "length": 36 }
+    },
+    {
+      "name": "11",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2352852, "length": 72 },
+      "normals": { "offset": 2353140, "length": 72 },
+      "indices": { "offset": 2353428, "length": 36 }
+    },
+    {
+      "name": "12",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2353572, "length": 72 },
+      "normals": { "offset": 2353860, "length": 72 },
+      "indices": { "offset": 2354148, "length": 36 }
+    },
+    {
+      "name": "13",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2354292, "length": 72 },
+      "normals": { "offset": 2354580, "length": 72 },
+      "indices": { "offset": 2354868, "length": 36 }
+    },
+    {
+      "name": "14",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2355012, "length": 72 },
+      "normals": { "offset": 2355300, "length": 72 },
+      "indices": { "offset": 2355588, "length": 36 }
+    },
+    {
+      "name": "15",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2355732, "length": 72 },
+      "normals": { "offset": 2356020, "length": 72 },
+      "indices": { "offset": 2356308, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2356452, "length": 72 },
+      "normals": { "offset": 2356740, "length": 72 },
+      "indices": { "offset": 2357028, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2357172, "length": 72 },
+      "normals": { "offset": 2357460, "length": 72 },
+      "indices": { "offset": 2357748, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2357892, "length": 72 },
+      "normals": { "offset": 2358180, "length": 72 },
+      "indices": { "offset": 2358468, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2358612, "length": 72 },
+      "normals": { "offset": 2358900, "length": 72 },
+      "indices": { "offset": 2359188, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2359332, "length": 72 },
+      "normals": { "offset": 2359620, "length": 72 },
+      "indices": { "offset": 2359908, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2360052, "length": 72 },
+      "normals": { "offset": 2360340, "length": 72 },
+      "indices": { "offset": 2360628, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2360772, "length": 72 },
+      "normals": { "offset": 2361060, "length": 72 },
+      "indices": { "offset": 2361348, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2361492, "length": 72 },
+      "normals": { "offset": 2361780, "length": 72 },
+      "indices": { "offset": 2362068, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2362212, "length": 72 },
+      "normals": { "offset": 2362500, "length": 72 },
+      "indices": { "offset": 2362788, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2362932, "length": 72 },
+      "normals": { "offset": 2363220, "length": 72 },
+      "indices": { "offset": 2363508, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2363652, "length": 72 },
+      "normals": { "offset": 2363940, "length": 72 },
+      "indices": { "offset": 2364228, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2364372, "length": 72 },
+      "normals": { "offset": 2364660, "length": 72 },
+      "indices": { "offset": 2364948, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2365092, "length": 72 },
+      "normals": { "offset": 2365380, "length": 72 },
+      "indices": { "offset": 2365668, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2365812, "length": 72 },
+      "normals": { "offset": 2366100, "length": 72 },
+      "indices": { "offset": 2366388, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2366532, "length": 72 },
+      "normals": { "offset": 2366820, "length": 72 },
+      "indices": { "offset": 2367108, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2367252, "length": 72 },
+      "normals": { "offset": 2367540, "length": 72 },
+      "indices": { "offset": 2367828, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2367972, "length": 72 },
+      "normals": { "offset": 2368260, "length": 72 },
+      "indices": { "offset": 2368548, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2368692, "length": 72 },
+      "normals": { "offset": 2368980, "length": 72 },
+      "indices": { "offset": 2369268, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2369412, "length": 72 },
+      "normals": { "offset": 2369700, "length": 72 },
+      "indices": { "offset": 2369988, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2370132, "length": 72 },
+      "normals": { "offset": 2370420, "length": 72 },
+      "indices": { "offset": 2370708, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2370852, "length": 72 },
+      "normals": { "offset": 2371140, "length": 72 },
+      "indices": { "offset": 2371428, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2371572, "length": 72 },
+      "normals": { "offset": 2371860, "length": 72 },
+      "indices": { "offset": 2372148, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2372292, "length": 72 },
+      "normals": { "offset": 2372580, "length": 72 },
+      "indices": { "offset": 2372868, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2373012, "length": 72 },
+      "normals": { "offset": 2373300, "length": 72 },
+      "indices": { "offset": 2373588, "length": 36 }
+    },
+    {
+      "name": "2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2373732, "length": 72 },
+      "normals": { "offset": 2374020, "length": 72 },
+      "indices": { "offset": 2374308, "length": 36 }
+    },
+    {
+      "name": "3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2374452, "length": 72 },
+      "normals": { "offset": 2374740, "length": 72 },
+      "indices": { "offset": 2375028, "length": 36 }
+    },
+    {
+      "name": "4",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2375172, "length": 72 },
+      "normals": { "offset": 2375460, "length": 72 },
+      "indices": { "offset": 2375748, "length": 36 }
+    },
+    {
+      "name": "5",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2375892, "length": 72 },
+      "normals": { "offset": 2376180, "length": 72 },
+      "indices": { "offset": 2376468, "length": 36 }
+    },
+    {
+      "name": "6",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2376612, "length": 72 },
+      "normals": { "offset": 2376900, "length": 72 },
+      "indices": { "offset": 2377188, "length": 36 }
+    },
+    {
+      "name": "7",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2377332, "length": 72 },
+      "normals": { "offset": 2377620, "length": 72 },
+      "indices": { "offset": 2377908, "length": 36 }
+    },
+    {
+      "name": "8",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2378052, "length": 72 },
+      "normals": { "offset": 2378340, "length": 72 },
+      "indices": { "offset": 2378628, "length": 36 }
+    },
+    {
+      "name": "9",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2378772, "length": 72 },
+      "normals": { "offset": 2379060, "length": 72 },
+      "indices": { "offset": 2379348, "length": 36 }
+    },
+    {
+      "name": "AFVDD",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2379492, "length": 72 },
+      "normals": { "offset": 2379780, "length": 72 },
+      "indices": { "offset": 2380068, "length": 36 }
+    },
+    {
+      "name": "AGND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2380212, "length": 72 },
+      "normals": { "offset": 2380500, "length": 72 },
+      "indices": { "offset": 2380788, "length": 36 }
+    },
+    {
+      "name": "D2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2380932, "length": 72 },
+      "normals": { "offset": 2381220, "length": 72 },
+      "indices": { "offset": 2381508, "length": 36 }
+    },
+    {
+      "name": "D2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2381652, "length": 72 },
+      "normals": { "offset": 2381940, "length": 72 },
+      "indices": { "offset": 2382228, "length": 36 }
+    },
+    {
+      "name": "DGND1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2382372, "length": 72 },
+      "normals": { "offset": 2382660, "length": 72 },
+      "indices": { "offset": 2382948, "length": 36 }
+    },
+    {
+      "name": "DGND2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2383092, "length": 72 },
+      "normals": { "offset": 2383380, "length": 72 },
+      "indices": { "offset": 2383668, "length": 36 }
+    },
+    {
+      "name": "DGND3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2383812, "length": 72 },
+      "normals": { "offset": 2384100, "length": 72 },
+      "indices": { "offset": 2384388, "length": 36 }
+    },
+    {
+      "name": "DGND4",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2384532, "length": 72 },
+      "normals": { "offset": 2384820, "length": 72 },
+      "indices": { "offset": 2385108, "length": 36 }
+    },
+    {
+      "name": "DGND5",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2385252, "length": 72 },
+      "normals": { "offset": 2385540, "length": 72 },
+      "indices": { "offset": 2385828, "length": 36 }
+    },
+    {
+      "name": "DGND6",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2385972, "length": 72 },
+      "normals": { "offset": 2386260, "length": 72 },
+      "indices": { "offset": 2386548, "length": 36 }
+    },
+    {
+      "name": "DGND7",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2386692, "length": 72 },
+      "normals": { "offset": 2386980, "length": 72 },
+      "indices": { "offset": 2387268, "length": 36 }
+    },
+    {
+      "name": "DGND8",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2387412, "length": 72 },
+      "normals": { "offset": 2387700, "length": 72 },
+      "indices": { "offset": 2387988, "length": 36 }
+    },
+    {
+      "name": "DGND9",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2388132, "length": 72 },
+      "normals": { "offset": 2388420, "length": 72 },
+      "indices": { "offset": 2388708, "length": 36 }
+    },
+    {
+      "name": "DVDD",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2388852, "length": 72 },
+      "normals": { "offset": 2389140, "length": 72 },
+      "indices": { "offset": 2389428, "length": 36 }
+    },
+    {
+      "name": "DVDD_GPIO",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2389572, "length": 72 },
+      "normals": { "offset": 2389860, "length": 72 },
+      "indices": { "offset": 2390148, "length": 36 }
+    },
+    {
+      "name": "EN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2390292, "length": 72 },
+      "normals": { "offset": 2390580, "length": 72 },
+      "indices": { "offset": 2390868, "length": 36 }
+    },
+    {
+      "name": "EN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2391012, "length": 72 },
+      "normals": { "offset": 2391300, "length": 72 },
+      "indices": { "offset": 2391588, "length": 36 }
+    },
+    {
+      "name": "EN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2391732, "length": 72 },
+      "normals": { "offset": 2392020, "length": 72 },
+      "indices": { "offset": 2392308, "length": 36 }
+    },
+    {
+      "name": "EXP_PAD",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2392452, "length": 72 },
+      "normals": { "offset": 2392740, "length": 72 },
+      "indices": { "offset": 2393028, "length": 36 }
+    },
+    {
+      "name": "FB",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2393172, "length": 72 },
+      "normals": { "offset": 2393460, "length": 72 },
+      "indices": { "offset": 2393748, "length": 36 }
+    },
+    {
+      "name": "G2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2393892, "length": 72 },
+      "normals": { "offset": 2394180, "length": 72 },
+      "indices": { "offset": 2394468, "length": 36 }
+    },
+    {
+      "name": "G2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2394612, "length": 72 },
+      "normals": { "offset": 2394900, "length": 72 },
+      "indices": { "offset": 2395188, "length": 36 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2395332, "length": 72 },
+      "normals": { "offset": 2395620, "length": 72 },
+      "indices": { "offset": 2395908, "length": 36 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2396052, "length": 72 },
+      "normals": { "offset": 2396340, "length": 72 },
+      "indices": { "offset": 2396628, "length": 36 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2396772, "length": 72 },
+      "normals": { "offset": 2397060, "length": 72 },
+      "indices": { "offset": 2397348, "length": 36 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2397492, "length": 72 },
+      "normals": { "offset": 2397780, "length": 72 },
+      "indices": { "offset": 2398068, "length": 36 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2398212, "length": 360 },
+      "normals": { "offset": 2399652, "length": 360 },
+      "indices": { "offset": 2401092, "length": 324 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2402388, "length": 360 },
+      "normals": { "offset": 2403828, "length": 360 },
+      "indices": { "offset": 2405268, "length": 324 }
+    },
+    {
+      "name": "GND",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2406564, "length": 72 },
+      "normals": { "offset": 2406852, "length": 72 },
+      "indices": { "offset": 2407140, "length": 36 }
+    },
+    {
+      "name": "IN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2407284, "length": 72 },
+      "normals": { "offset": 2407572, "length": 72 },
+      "indices": { "offset": 2407860, "length": 36 }
+    },
+    {
+      "name": "IN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2408004, "length": 72 },
+      "normals": { "offset": 2408292, "length": 72 },
+      "indices": { "offset": 2408580, "length": 36 }
+    },
+    {
+      "name": "LX",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2408724, "length": 72 },
+      "normals": { "offset": 2409012, "length": 72 },
+      "indices": { "offset": 2409300, "length": 36 }
+    },
+    {
+      "name": "MCKN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2409444, "length": 72 },
+      "normals": { "offset": 2409732, "length": 72 },
+      "indices": { "offset": 2410020, "length": 36 }
+    },
+    {
+      "name": "MCKP",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2410164, "length": 72 },
+      "normals": { "offset": 2410452, "length": 72 },
+      "indices": { "offset": 2410740, "length": 36 }
+    },
+    {
+      "name": "MCLK",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2410884, "length": 72 },
+      "normals": { "offset": 2411172, "length": 72 },
+      "indices": { "offset": 2411460, "length": 36 }
+    },
+    {
+      "name": "MD0N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2411604, "length": 72 },
+      "normals": { "offset": 2411892, "length": 72 },
+      "indices": { "offset": 2412180, "length": 36 }
+    },
+    {
+      "name": "MD0P",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2412324, "length": 72 },
+      "normals": { "offset": 2412612, "length": 72 },
+      "indices": { "offset": 2412900, "length": 36 }
+    },
+    {
+      "name": "MD1N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2413044, "length": 72 },
+      "normals": { "offset": 2413332, "length": 72 },
+      "indices": { "offset": 2413620, "length": 36 }
+    },
+    {
+      "name": "MD1P",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2413764, "length": 72 },
+      "normals": { "offset": 2414052, "length": 72 },
+      "indices": { "offset": 2414340, "length": 36 }
+    },
+    {
+      "name": "MECHANICAL PIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2414484, "length": 318 },
+      "normals": { "offset": 2415756, "length": 318 },
+      "indices": { "offset": 2417028, "length": 300 }
+    },
+    {
+      "name": "MECHANICAL PIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2418228, "length": 72 },
+      "normals": { "offset": 2418516, "length": 72 },
+      "indices": { "offset": 2418804, "length": 36 }
+    },
+    {
+      "name": "MECHANICAL PIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2418948, "length": 72 },
+      "normals": { "offset": 2419236, "length": 72 },
+      "indices": { "offset": 2419524, "length": 36 }
+    },
+    {
+      "name": "MECHANICAL PIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2419668, "length": 72 },
+      "normals": { "offset": 2419956, "length": 72 },
+      "indices": { "offset": 2420244, "length": 36 }
+    },
+    {
+      "name": "MECHANICAL PIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2420388, "length": 72 },
+      "normals": { "offset": 2420676, "length": 72 },
+      "indices": { "offset": 2420964, "length": 36 }
+    },
+    {
+      "name": "MECHANICAL PIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2421108, "length": 318 },
+      "normals": { "offset": 2422380, "length": 318 },
+      "indices": { "offset": 2423652, "length": 300 }
+    },
+    {
+      "name": "NC",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2424852, "length": 72 },
+      "normals": { "offset": 2425140, "length": 72 },
+      "indices": { "offset": 2425428, "length": 36 }
+    },
+    {
+      "name": "NC",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2425572, "length": 72 },
+      "normals": { "offset": 2425860, "length": 72 },
+      "indices": { "offset": 2426148, "length": 36 }
+    },
+    {
+      "name": "NC1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2426292, "length": 360 },
+      "normals": { "offset": 2427732, "length": 360 },
+      "indices": { "offset": 2429172, "length": 324 }
+    },
+    {
+      "name": "NC1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2430468, "length": 72 },
+      "normals": { "offset": 2430756, "length": 72 },
+      "indices": { "offset": 2431044, "length": 36 }
+    },
+    {
+      "name": "NC1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2431188, "length": 360 },
+      "normals": { "offset": 2432628, "length": 360 },
+      "indices": { "offset": 2434068, "length": 324 }
+    },
+    {
+      "name": "NC2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2435364, "length": 360 },
+      "normals": { "offset": 2436804, "length": 360 },
+      "indices": { "offset": 2438244, "length": 324 }
+    },
+    {
+      "name": "NC2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2439540, "length": 72 },
+      "normals": { "offset": 2439828, "length": 72 },
+      "indices": { "offset": 2440116, "length": 36 }
+    },
+    {
+      "name": "NC2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2440260, "length": 360 },
+      "normals": { "offset": 2441700, "length": 360 },
+      "indices": { "offset": 2443140, "length": 324 }
+    },
+    {
+      "name": "NC3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2444436, "length": 360 },
+      "normals": { "offset": 2445876, "length": 360 },
+      "indices": { "offset": 2447316, "length": 324 }
+    },
+    {
+      "name": "NC3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2448612, "length": 360 },
+      "normals": { "offset": 2450052, "length": 360 },
+      "indices": { "offset": 2451492, "length": 324 }
+    },
+    {
+      "name": "NC4",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2452788, "length": 360 },
+      "normals": { "offset": 2454228, "length": 360 },
+      "indices": { "offset": 2455668, "length": 324 }
+    },
+    {
+      "name": "NC6",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2456964, "length": 72 },
+      "normals": { "offset": 2457252, "length": 72 },
+      "indices": { "offset": 2457540, "length": 36 }
+    },
+    {
+      "name": "NC7",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2457684, "length": 72 },
+      "normals": { "offset": 2457972, "length": 72 },
+      "indices": { "offset": 2458260, "length": 36 }
+    },
+    {
+      "name": "NC7",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2458404, "length": 360 },
+      "normals": { "offset": 2459844, "length": 360 },
+      "indices": { "offset": 2461284, "length": 324 }
+    },
+    {
+      "name": "OE",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2462580, "length": 72 },
+      "normals": { "offset": 2462868, "length": 72 },
+      "indices": { "offset": 2463156, "length": 36 }
+    },
+    {
+      "name": "OUT",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2463300, "length": 72 },
+      "normals": { "offset": 2463588, "length": 72 },
+      "indices": { "offset": 2463876, "length": 36 }
+    },
+    {
+      "name": "OUT",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2464020, "length": 72 },
+      "normals": { "offset": 2464308, "length": 72 },
+      "indices": { "offset": 2464596, "length": 36 }
+    },
+    {
+      "name": "OUTPUT",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2464740, "length": 72 },
+      "normals": { "offset": 2465028, "length": 72 },
+      "indices": { "offset": 2465316, "length": 36 }
+    },
+    {
+      "name": "P1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2465460, "length": 72 },
+      "normals": { "offset": 2465748, "length": 72 },
+      "indices": { "offset": 2466036, "length": 36 }
+    },
+    {
+      "name": "P1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2466180, "length": 72 },
+      "normals": { "offset": 2466468, "length": 72 },
+      "indices": { "offset": 2466756, "length": 36 }
+    },
+    {
+      "name": "P1",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2466900, "length": 72 },
+      "normals": { "offset": 2467188, "length": 72 },
+      "indices": { "offset": 2467476, "length": 36 }
+    },
+    {
+      "name": "P2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2467620, "length": 72 },
+      "normals": { "offset": 2467908, "length": 72 },
+      "indices": { "offset": 2468196, "length": 36 }
+    },
+    {
+      "name": "P2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2468340, "length": 72 },
+      "normals": { "offset": 2468628, "length": 72 },
+      "indices": { "offset": 2468916, "length": 36 }
+    },
+    {
+      "name": "P2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2469060, "length": 72 },
+      "normals": { "offset": 2469348, "length": 72 },
+      "indices": { "offset": 2469636, "length": 36 }
+    },
+    {
+      "name": "P3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2469780, "length": 72 },
+      "normals": { "offset": 2470068, "length": 72 },
+      "indices": { "offset": 2470356, "length": 36 }
+    },
+    {
+      "name": "P3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2470500, "length": 72 },
+      "normals": { "offset": 2470788, "length": 72 },
+      "indices": { "offset": 2471076, "length": 36 }
+    },
+    {
+      "name": "P3",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2471220, "length": 72 },
+      "normals": { "offset": 2471508, "length": 72 },
+      "indices": { "offset": 2471796, "length": 36 }
+    },
+    {
+      "name": "P4",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2471940, "length": 72 },
+      "normals": { "offset": 2472228, "length": 72 },
+      "indices": { "offset": 2472516, "length": 36 }
+    },
+    {
+      "name": "P4",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2472660, "length": 72 },
+      "normals": { "offset": 2472948, "length": 72 },
+      "indices": { "offset": 2473236, "length": 36 }
+    },
+    {
+      "name": "P4",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2473380, "length": 72 },
+      "normals": { "offset": 2473668, "length": 72 },
+      "indices": { "offset": 2473956, "length": 36 }
+    },
+    {
+      "name": "PG",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2474100, "length": 72 },
+      "normals": { "offset": 2474388, "length": 72 },
+      "indices": { "offset": 2474676, "length": 36 }
+    },
+    {
+      "name": "S2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2474820, "length": 72 },
+      "normals": { "offset": 2475108, "length": 72 },
+      "indices": { "offset": 2475396, "length": 36 }
+    },
+    {
+      "name": "S2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2475540, "length": 72 },
+      "normals": { "offset": 2475828, "length": 72 },
+      "indices": { "offset": 2476116, "length": 36 }
+    },
+    {
+      "name": "SCL",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2476260, "length": 360 },
+      "normals": { "offset": 2477700, "length": 360 },
+      "indices": { "offset": 2479140, "length": 324 }
+    },
+    {
+      "name": "SCL",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2480436, "length": 360 },
+      "normals": { "offset": 2481876, "length": 360 },
+      "indices": { "offset": 2483316, "length": 324 }
+    },
+    {
+      "name": "SCL",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2484612, "length": 72 },
+      "normals": { "offset": 2484900, "length": 72 },
+      "indices": { "offset": 2485188, "length": 36 }
+    },
+    {
+      "name": "SDA",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2485332, "length": 72 },
+      "normals": { "offset": 2485620, "length": 72 },
+      "indices": { "offset": 2485908, "length": 36 }
+    },
+    {
+      "name": "SDA",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2486052, "length": 360 },
+      "normals": { "offset": 2487492, "length": 360 },
+      "indices": { "offset": 2488932, "length": 324 }
+    },
+    {
+      "name": "SDA",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2490228, "length": 360 },
+      "normals": { "offset": 2491668, "length": 360 },
+      "indices": { "offset": 2493108, "length": 324 }
+    },
+    {
+      "name": "VA2V8",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2494404, "length": 72 },
+      "normals": { "offset": 2494692, "length": 72 },
+      "indices": { "offset": 2494980, "length": 36 }
+    },
+    {
+      "name": "VCC",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2495124, "length": 360 },
+      "normals": { "offset": 2496564, "length": 360 },
+      "indices": { "offset": 2498004, "length": 324 }
+    },
+    {
+      "name": "VCC",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2499300, "length": 360 },
+      "normals": { "offset": 2500740, "length": 360 },
+      "indices": { "offset": 2502180, "length": 324 }
+    },
+    {
+      "name": "VDD",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2503476, "length": 72 },
+      "normals": { "offset": 2503764, "length": 72 },
+      "indices": { "offset": 2504052, "length": 36 }
+    },
+    {
+      "name": "VIN",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2504196, "length": 72 },
+      "normals": { "offset": 2504484, "length": 72 },
+      "indices": { "offset": 2504772, "length": 36 }
+    },
+    {
+      "name": "VO1V8",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 2504916, "length": 72 },
+      "normals": { "offset": 2505204, "length": 72 },
+      "indices": { "offset": 2505492, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2505636, "length": 858 },
+      "normals": { "offset": 2509068, "length": 858 },
+      "indices": { "offset": 2512500, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2515284, "length": 612 },
+      "normals": { "offset": 2517732, "length": 612 },
+      "indices": { "offset": 2520180, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2522340, "length": 858 },
+      "normals": { "offset": 2525772, "length": 858 },
+      "indices": { "offset": 2529204, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2531988, "length": 612 },
+      "normals": { "offset": 2534436, "length": 612 },
+      "indices": { "offset": 2536884, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2539044, "length": 858 },
+      "normals": { "offset": 2542476, "length": 858 },
+      "indices": { "offset": 2545908, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2548692, "length": 612 },
+      "normals": { "offset": 2551140, "length": 612 },
+      "indices": { "offset": 2553588, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2555748, "length": 858 },
+      "normals": { "offset": 2559180, "length": 858 },
+      "indices": { "offset": 2562612, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2565396, "length": 612 },
+      "normals": { "offset": 2567844, "length": 612 },
+      "indices": { "offset": 2570292, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2572452, "length": 858 },
+      "normals": { "offset": 2575884, "length": 858 },
+      "indices": { "offset": 2579316, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2582100, "length": 1284 },
+      "normals": { "offset": 2587236, "length": 1284 },
+      "indices": { "offset": 2592372, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2596500, "length": 858 },
+      "normals": { "offset": 2599932, "length": 858 },
+      "indices": { "offset": 2603364, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2606148, "length": 1284 },
+      "normals": { "offset": 2611284, "length": 1284 },
+      "indices": { "offset": 2616420, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2620548, "length": 1560 },
+      "normals": { "offset": 2626788, "length": 1560 },
+      "indices": { "offset": 2633028, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2637972, "length": 612 },
+      "normals": { "offset": 2640420, "length": 612 },
+      "indices": { "offset": 2642868, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2645028, "length": 684 },
+      "normals": { "offset": 2647764, "length": 684 },
+      "indices": { "offset": 2650500, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2652900, "length": 1560 },
+      "normals": { "offset": 2659140, "length": 1560 },
+      "indices": { "offset": 2665380, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2670324, "length": 612 },
+      "normals": { "offset": 2672772, "length": 612 },
+      "indices": { "offset": 2675220, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2677380, "length": 684 },
+      "normals": { "offset": 2680116, "length": 684 },
+      "indices": { "offset": 2682852, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2685252, "length": 1650 },
+      "normals": { "offset": 2691852, "length": 1650 },
+      "indices": { "offset": 2698452, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2703732, "length": 612 },
+      "normals": { "offset": 2706180, "length": 612 },
+      "indices": { "offset": 2708628, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2710788, "length": 1560 },
+      "normals": { "offset": 2717028, "length": 1560 },
+      "indices": { "offset": 2723268, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2728212, "length": 1650 },
+      "normals": { "offset": 2734812, "length": 1650 },
+      "indices": { "offset": 2741412, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2746692, "length": 612 },
+      "normals": { "offset": 2749140, "length": 612 },
+      "indices": { "offset": 2751588, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2753748, "length": 1560 },
+      "normals": { "offset": 2759988, "length": 1560 },
+      "indices": { "offset": 2766228, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2771172, "length": 1560 },
+      "normals": { "offset": 2777412, "length": 1560 },
+      "indices": { "offset": 2783652, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2788596, "length": 1440 },
+      "normals": { "offset": 2794356, "length": 1440 },
+      "indices": { "offset": 2800116, "length": 1164 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2804772, "length": 1560 },
+      "normals": { "offset": 2811012, "length": 1560 },
+      "indices": { "offset": 2817252, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2822196, "length": 1440 },
+      "normals": { "offset": 2827956, "length": 1440 },
+      "indices": { "offset": 2833716, "length": 1164 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2838372, "length": 1560 },
+      "normals": { "offset": 2844612, "length": 1560 },
+      "indices": { "offset": 2850852, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2855796, "length": 612 },
+      "normals": { "offset": 2858244, "length": 612 },
+      "indices": { "offset": 2860692, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2862852, "length": 612 },
+      "normals": { "offset": 2865300, "length": 612 },
+      "indices": { "offset": 2867748, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2869908, "length": 1560 },
+      "normals": { "offset": 2876148, "length": 1560 },
+      "indices": { "offset": 2882388, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2887332, "length": 612 },
+      "normals": { "offset": 2889780, "length": 612 },
+      "indices": { "offset": 2892228, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2894388, "length": 612 },
+      "normals": { "offset": 2896836, "length": 612 },
+      "indices": { "offset": 2899284, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2901444, "length": 1560 },
+      "normals": { "offset": 2907684, "length": 1560 },
+      "indices": { "offset": 2913924, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2918868, "length": 1734 },
+      "normals": { "offset": 2925804, "length": 1734 },
+      "indices": { "offset": 2932740, "length": 1356 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2938164, "length": 1560 },
+      "normals": { "offset": 2944404, "length": 1560 },
+      "indices": { "offset": 2950644, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2955588, "length": 1734 },
+      "normals": { "offset": 2962524, "length": 1734 },
+      "indices": { "offset": 2969460, "length": 1356 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2974884, "length": 1560 },
+      "normals": { "offset": 2981124, "length": 1560 },
+      "indices": { "offset": 2987364, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2992308, "length": 612 },
+      "normals": { "offset": 2994756, "length": 612 },
+      "indices": { "offset": 2997204, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 2999364, "length": 1284 },
+      "normals": { "offset": 3004500, "length": 1284 },
+      "indices": { "offset": 3009636, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3013764, "length": 1560 },
+      "normals": { "offset": 3020004, "length": 1560 },
+      "indices": { "offset": 3026244, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3031188, "length": 612 },
+      "normals": { "offset": 3033636, "length": 612 },
+      "indices": { "offset": 3036084, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3038244, "length": 1284 },
+      "normals": { "offset": 3043380, "length": 1284 },
+      "indices": { "offset": 3048516, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3052644, "length": 1560 },
+      "normals": { "offset": 3058884, "length": 1560 },
+      "indices": { "offset": 3065124, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3070068, "length": 1656 },
+      "normals": { "offset": 3076692, "length": 1656 },
+      "indices": { "offset": 3083316, "length": 1296 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3088500, "length": 1560 },
+      "normals": { "offset": 3094740, "length": 1560 },
+      "indices": { "offset": 3100980, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3105924, "length": 1656 },
+      "normals": { "offset": 3112548, "length": 1656 },
+      "indices": { "offset": 3119172, "length": 1296 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3124356, "length": 1284 },
+      "normals": { "offset": 3129492, "length": 1284 },
+      "indices": { "offset": 3134628, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3138756, "length": 1560 },
+      "normals": { "offset": 3144996, "length": 1560 },
+      "indices": { "offset": 3151236, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3156180, "length": 1284 },
+      "normals": { "offset": 3161316, "length": 1284 },
+      "indices": { "offset": 3166452, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3170580, "length": 1560 },
+      "normals": { "offset": 3176820, "length": 1560 },
+      "indices": { "offset": 3183060, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3188004, "length": 1650 },
+      "normals": { "offset": 3194604, "length": 1650 },
+      "indices": { "offset": 3201204, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3206484, "length": 1560 },
+      "normals": { "offset": 3212724, "length": 1560 },
+      "indices": { "offset": 3218964, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3223908, "length": 1650 },
+      "normals": { "offset": 3230508, "length": 1650 },
+      "indices": { "offset": 3237108, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3242388, "length": 1560 },
+      "normals": { "offset": 3248628, "length": 1560 },
+      "indices": { "offset": 3254868, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3259812, "length": 684 },
+      "normals": { "offset": 3262548, "length": 684 },
+      "indices": { "offset": 3265284, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3267684, "length": 1560 },
+      "normals": { "offset": 3273924, "length": 1560 },
+      "indices": { "offset": 3280164, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3285108, "length": 684 },
+      "normals": { "offset": 3287844, "length": 684 },
+      "indices": { "offset": 3290580, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3292980, "length": 1560 },
+      "normals": { "offset": 3299220, "length": 1560 },
+      "indices": { "offset": 3305460, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3310404, "length": 1560 },
+      "normals": { "offset": 3316644, "length": 1560 },
+      "indices": { "offset": 3322884, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3327828, "length": 612 },
+      "normals": { "offset": 3330276, "length": 612 },
+      "indices": { "offset": 3332724, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3334884, "length": 1560 },
+      "normals": { "offset": 3341124, "length": 1560 },
+      "indices": { "offset": 3347364, "length": 1200 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3352164, "length": 1560 },
+      "normals": { "offset": 3358404, "length": 1560 },
+      "indices": { "offset": 3364644, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3369588, "length": 612 },
+      "normals": { "offset": 3372036, "length": 612 },
+      "indices": { "offset": 3374484, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3376644, "length": 1560 },
+      "normals": { "offset": 3382884, "length": 1560 },
+      "indices": { "offset": 3389124, "length": 1200 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3393924, "length": 1560 },
+      "normals": { "offset": 3400164, "length": 1560 },
+      "indices": { "offset": 3406404, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3411348, "length": 612 },
+      "normals": { "offset": 3413796, "length": 612 },
+      "indices": { "offset": 3416244, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3418404, "length": 1560 },
+      "normals": { "offset": 3424644, "length": 1560 },
+      "indices": { "offset": 3430884, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3435828, "length": 612 },
+      "normals": { "offset": 3438276, "length": 612 },
+      "indices": { "offset": 3440724, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3442884, "length": 618 },
+      "normals": { "offset": 3445356, "length": 618 },
+      "indices": { "offset": 3447828, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3449988, "length": 1176 },
+      "normals": { "offset": 3454692, "length": 1176 },
+      "indices": { "offset": 3459396, "length": 924 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3463092, "length": 612 },
+      "normals": { "offset": 3465540, "length": 612 },
+      "indices": { "offset": 3467988, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3470148, "length": 618 },
+      "normals": { "offset": 3472620, "length": 618 },
+      "indices": { "offset": 3475092, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3477252, "length": 1176 },
+      "normals": { "offset": 3481956, "length": 1176 },
+      "indices": { "offset": 3486660, "length": 924 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3490356, "length": 612 },
+      "normals": { "offset": 3492804, "length": 612 },
+      "indices": { "offset": 3495252, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3497412, "length": 618 },
+      "normals": { "offset": 3499884, "length": 618 },
+      "indices": { "offset": 3502356, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3504516, "length": 1176 },
+      "normals": { "offset": 3509220, "length": 1176 },
+      "indices": { "offset": 3513924, "length": 924 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3517620, "length": 1284 },
+      "normals": { "offset": 3522756, "length": 1284 },
+      "indices": { "offset": 3527892, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3532020, "length": 618 },
+      "normals": { "offset": 3534492, "length": 618 },
+      "indices": { "offset": 3536964, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3539124, "length": 1176 },
+      "normals": { "offset": 3543828, "length": 1176 },
+      "indices": { "offset": 3548532, "length": 924 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3552228, "length": 1284 },
+      "normals": { "offset": 3557364, "length": 1284 },
+      "indices": { "offset": 3562500, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3566628, "length": 984 },
+      "normals": { "offset": 3570564, "length": 984 },
+      "indices": { "offset": 3574500, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3577716, "length": 1650 },
+      "normals": { "offset": 3584316, "length": 1650 },
+      "indices": { "offset": 3590916, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3596196, "length": 612 },
+      "normals": { "offset": 3598644, "length": 612 },
+      "indices": { "offset": 3601092, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3603252, "length": 984 },
+      "normals": { "offset": 3607188, "length": 984 },
+      "indices": { "offset": 3611124, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3614340, "length": 1650 },
+      "normals": { "offset": 3620940, "length": 1650 },
+      "indices": { "offset": 3627540, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3632820, "length": 612 },
+      "normals": { "offset": 3635268, "length": 612 },
+      "indices": { "offset": 3637716, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3639876, "length": 984 },
+      "normals": { "offset": 3643812, "length": 984 },
+      "indices": { "offset": 3647748, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3650964, "length": 1650 },
+      "normals": { "offset": 3657564, "length": 1650 },
+      "indices": { "offset": 3664164, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3669444, "length": 1560 },
+      "normals": { "offset": 3675684, "length": 1560 },
+      "indices": { "offset": 3681924, "length": 1200 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3686724, "length": 984 },
+      "normals": { "offset": 3690660, "length": 984 },
+      "indices": { "offset": 3694596, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3697812, "length": 1650 },
+      "normals": { "offset": 3704412, "length": 1650 },
+      "indices": { "offset": 3711012, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3716292, "length": 1560 },
+      "normals": { "offset": 3722532, "length": 1560 },
+      "indices": { "offset": 3728772, "length": 1200 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3733572, "length": 1650 },
+      "normals": { "offset": 3740172, "length": 1650 },
+      "indices": { "offset": 3746772, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3752052, "length": 984 },
+      "normals": { "offset": 3755988, "length": 984 },
+      "indices": { "offset": 3759924, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3763140, "length": 1650 },
+      "normals": { "offset": 3769740, "length": 1650 },
+      "indices": { "offset": 3776340, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3781620, "length": 984 },
+      "normals": { "offset": 3785556, "length": 984 },
+      "indices": { "offset": 3789492, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3792708, "length": 612 },
+      "normals": { "offset": 3795156, "length": 612 },
+      "indices": { "offset": 3797604, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3799764, "length": 984 },
+      "normals": { "offset": 3803700, "length": 984 },
+      "indices": { "offset": 3807636, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3810852, "length": 612 },
+      "normals": { "offset": 3813300, "length": 612 },
+      "indices": { "offset": 3815748, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3817908, "length": 984 },
+      "normals": { "offset": 3821844, "length": 984 },
+      "indices": { "offset": 3825780, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3828996, "length": 984 },
+      "normals": { "offset": 3832932, "length": 984 },
+      "indices": { "offset": 3836868, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3840084, "length": 1284 },
+      "normals": { "offset": 3845220, "length": 1284 },
+      "indices": { "offset": 3850356, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3854484, "length": 984 },
+      "normals": { "offset": 3858420, "length": 984 },
+      "indices": { "offset": 3862356, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3865572, "length": 1284 },
+      "normals": { "offset": 3870708, "length": 1284 },
+      "indices": { "offset": 3875844, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3879972, "length": 1842 },
+      "normals": { "offset": 3887340, "length": 1842 },
+      "indices": { "offset": 3894708, "length": 1440 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3900468, "length": 612 },
+      "normals": { "offset": 3902916, "length": 612 },
+      "indices": { "offset": 3905364, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3907524, "length": 1842 },
+      "normals": { "offset": 3914892, "length": 1842 },
+      "indices": { "offset": 3922260, "length": 1440 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3928020, "length": 612 },
+      "normals": { "offset": 3930468, "length": 612 },
+      "indices": { "offset": 3932916, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3935076, "length": 426 },
+      "normals": { "offset": 3936780, "length": 426 },
+      "indices": { "offset": 3938484, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3939972, "length": 1284 },
+      "normals": { "offset": 3945108, "length": 1284 },
+      "indices": { "offset": 3950244, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3954372, "length": 426 },
+      "normals": { "offset": 3956076, "length": 426 },
+      "indices": { "offset": 3957780, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3959268, "length": 1284 },
+      "normals": { "offset": 3964404, "length": 1284 },
+      "indices": { "offset": 3969540, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3973668, "length": 426 },
+      "normals": { "offset": 3975372, "length": 426 },
+      "indices": { "offset": 3977076, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3978564, "length": 1650 },
+      "normals": { "offset": 3985164, "length": 1650 },
+      "indices": { "offset": 3991764, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 3997044, "length": 426 },
+      "normals": { "offset": 3998748, "length": 426 },
+      "indices": { "offset": 4000452, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4001940, "length": 1650 },
+      "normals": { "offset": 4008540, "length": 1650 },
+      "indices": { "offset": 4015140, "length": 1320 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4020420, "length": 426 },
+      "normals": { "offset": 4022124, "length": 426 },
+      "indices": { "offset": 4023828, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4025316, "length": 684 },
+      "normals": { "offset": 4028052, "length": 684 },
+      "indices": { "offset": 4030788, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4033188, "length": 426 },
+      "normals": { "offset": 4034892, "length": 426 },
+      "indices": { "offset": 4036596, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4038084, "length": 684 },
+      "normals": { "offset": 4040820, "length": 684 },
+      "indices": { "offset": 4043556, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4045956, "length": 696 },
+      "normals": { "offset": 4048740, "length": 696 },
+      "indices": { "offset": 4051524, "length": 612 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4053972, "length": 612 },
+      "normals": { "offset": 4056420, "length": 612 },
+      "indices": { "offset": 4058868, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4061028, "length": 696 },
+      "normals": { "offset": 4063812, "length": 696 },
+      "indices": { "offset": 4066596, "length": 612 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4069044, "length": 612 },
+      "normals": { "offset": 4071492, "length": 612 },
+      "indices": { "offset": 4073940, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4076100, "length": 858 },
+      "normals": { "offset": 4079532, "length": 858 },
+      "indices": { "offset": 4082964, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4085748, "length": 684 },
+      "normals": { "offset": 4088484, "length": 684 },
+      "indices": { "offset": 4091220, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4093620, "length": 858 },
+      "normals": { "offset": 4097052, "length": 858 },
+      "indices": { "offset": 4100484, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4103268, "length": 684 },
+      "normals": { "offset": 4106004, "length": 684 },
+      "indices": { "offset": 4108740, "length": 600 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4111140, "length": 426 },
+      "normals": { "offset": 4112844, "length": 426 },
+      "indices": { "offset": 4114548, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4116036, "length": 612 },
+      "normals": { "offset": 4118484, "length": 612 },
+      "indices": { "offset": 4120932, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4123092, "length": 426 },
+      "normals": { "offset": 4124796, "length": 426 },
+      "indices": { "offset": 4126500, "length": 372 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4127988, "length": 612 },
+      "normals": { "offset": 4130436, "length": 612 },
+      "indices": { "offset": 4132884, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4135044, "length": 1560 },
+      "normals": { "offset": 4141284, "length": 1560 },
+      "indices": { "offset": 4147524, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4152468, "length": 1824 },
+      "normals": { "offset": 4159764, "length": 1824 },
+      "indices": { "offset": 4167060, "length": 1404 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4172676, "length": 1560 },
+      "normals": { "offset": 4178916, "length": 1560 },
+      "indices": { "offset": 4185156, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4190100, "length": 1824 },
+      "normals": { "offset": 4197396, "length": 1824 },
+      "indices": { "offset": 4204692, "length": 1404 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4210308, "length": 1560 },
+      "normals": { "offset": 4216548, "length": 1560 },
+      "indices": { "offset": 4222788, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4227732, "length": 750 },
+      "normals": { "offset": 4230732, "length": 750 },
+      "indices": { "offset": 4233732, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4236228, "length": 1560 },
+      "normals": { "offset": 4242468, "length": 1560 },
+      "indices": { "offset": 4248708, "length": 1236 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4253652, "length": 750 },
+      "normals": { "offset": 4256652, "length": 750 },
+      "indices": { "offset": 4259652, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4262148, "length": 858 },
+      "normals": { "offset": 4265580, "length": 858 },
+      "indices": { "offset": 4269012, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4271796, "length": 612 },
+      "normals": { "offset": 4274244, "length": 612 },
+      "indices": { "offset": 4276692, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4278852, "length": 612 },
+      "normals": { "offset": 4281300, "length": 612 },
+      "indices": { "offset": 4283748, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4285908, "length": 858 },
+      "normals": { "offset": 4289340, "length": 858 },
+      "indices": { "offset": 4292772, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4295556, "length": 612 },
+      "normals": { "offset": 4298004, "length": 612 },
+      "indices": { "offset": 4300452, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4302612, "length": 612 },
+      "normals": { "offset": 4305060, "length": 612 },
+      "indices": { "offset": 4307508, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4309668, "length": 984 },
+      "normals": { "offset": 4313604, "length": 984 },
+      "indices": { "offset": 4317540, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4320756, "length": 1284 },
+      "normals": { "offset": 4325892, "length": 1284 },
+      "indices": { "offset": 4331028, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4335156, "length": 1656 },
+      "normals": { "offset": 4341780, "length": 1656 },
+      "indices": { "offset": 4348404, "length": 1296 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4353588, "length": 984 },
+      "normals": { "offset": 4357524, "length": 984 },
+      "indices": { "offset": 4361460, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4364676, "length": 1284 },
+      "normals": { "offset": 4369812, "length": 1284 },
+      "indices": { "offset": 4374948, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4379076, "length": 1656 },
+      "normals": { "offset": 4385700, "length": 1656 },
+      "indices": { "offset": 4392324, "length": 1296 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4397508, "length": 1824 },
+      "normals": { "offset": 4404804, "length": 1824 },
+      "indices": { "offset": 4412100, "length": 1404 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4417716, "length": 1284 },
+      "normals": { "offset": 4422852, "length": 1284 },
+      "indices": { "offset": 4427988, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4432116, "length": 984 },
+      "normals": { "offset": 4436052, "length": 984 },
+      "indices": { "offset": 4439988, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4443204, "length": 1824 },
+      "normals": { "offset": 4450500, "length": 1824 },
+      "indices": { "offset": 4457796, "length": 1404 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4463412, "length": 1284 },
+      "normals": { "offset": 4468548, "length": 1284 },
+      "indices": { "offset": 4473684, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4477812, "length": 984 },
+      "normals": { "offset": 4481748, "length": 984 },
+      "indices": { "offset": 4485684, "length": 804 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4488900, "length": 858 },
+      "normals": { "offset": 4492332, "length": 858 },
+      "indices": { "offset": 4495764, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4498548, "length": 612 },
+      "normals": { "offset": 4500996, "length": 612 },
+      "indices": { "offset": 4503444, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4505604, "length": 1284 },
+      "normals": { "offset": 4510740, "length": 1284 },
+      "indices": { "offset": 4515876, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4520004, "length": 858 },
+      "normals": { "offset": 4523436, "length": 858 },
+      "indices": { "offset": 4526868, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4529652, "length": 612 },
+      "normals": { "offset": 4532100, "length": 612 },
+      "indices": { "offset": 4534548, "length": 540 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4536708, "length": 1284 },
+      "normals": { "offset": 4541844, "length": 1284 },
+      "indices": { "offset": 4546980, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4551108, "length": 72 },
+      "normals": { "offset": 4551396, "length": 72 },
+      "indices": { "offset": 4551684, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4551828, "length": 72 },
+      "normals": { "offset": 4552116, "length": 72 },
+      "indices": { "offset": 4552404, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4552548, "length": 72 },
+      "normals": { "offset": 4552836, "length": 72 },
+      "indices": { "offset": 4553124, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4553268, "length": 72 },
+      "normals": { "offset": 4553556, "length": 72 },
+      "indices": { "offset": 4553844, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4553988, "length": 72 },
+      "normals": { "offset": 4554276, "length": 72 },
+      "indices": { "offset": 4554564, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4554708, "length": 72 },
+      "normals": { "offset": 4554996, "length": 72 },
+      "indices": { "offset": 4555284, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4555428, "length": 72 },
+      "normals": { "offset": 4555716, "length": 72 },
+      "indices": { "offset": 4556004, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4556148, "length": 72 },
+      "normals": { "offset": 4556436, "length": 72 },
+      "indices": { "offset": 4556724, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4556868, "length": 72 },
+      "normals": { "offset": 4557156, "length": 72 },
+      "indices": { "offset": 4557444, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4557588, "length": 72 },
+      "normals": { "offset": 4557876, "length": 72 },
+      "indices": { "offset": 4558164, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4558308, "length": 72 },
+      "normals": { "offset": 4558596, "length": 72 },
+      "indices": { "offset": 4558884, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4559028, "length": 72 },
+      "normals": { "offset": 4559316, "length": 72 },
+      "indices": { "offset": 4559604, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4559748, "length": 72 },
+      "normals": { "offset": 4560036, "length": 72 },
+      "indices": { "offset": 4560324, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4560468, "length": 72 },
+      "normals": { "offset": 4560756, "length": 72 },
+      "indices": { "offset": 4561044, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4561188, "length": 72 },
+      "normals": { "offset": 4561476, "length": 72 },
+      "indices": { "offset": 4561764, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4561908, "length": 72 },
+      "normals": { "offset": 4562196, "length": 72 },
+      "indices": { "offset": 4562484, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4562628, "length": 72 },
+      "normals": { "offset": 4562916, "length": 72 },
+      "indices": { "offset": 4563204, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4563348, "length": 72 },
+      "normals": { "offset": 4563636, "length": 72 },
+      "indices": { "offset": 4563924, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4564068, "length": 72 },
+      "normals": { "offset": 4564356, "length": 72 },
+      "indices": { "offset": 4564644, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4564788, "length": 72 },
+      "normals": { "offset": 4565076, "length": 72 },
+      "indices": { "offset": 4565364, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4565508, "length": 72 },
+      "normals": { "offset": 4565796, "length": 72 },
+      "indices": { "offset": 4566084, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4566228, "length": 72 },
+      "normals": { "offset": 4566516, "length": 72 },
+      "indices": { "offset": 4566804, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4566948, "length": 72 },
+      "normals": { "offset": 4567236, "length": 72 },
+      "indices": { "offset": 4567524, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4567668, "length": 72 },
+      "normals": { "offset": 4567956, "length": 72 },
+      "indices": { "offset": 4568244, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4568388, "length": 72 },
+      "normals": { "offset": 4568676, "length": 72 },
+      "indices": { "offset": 4568964, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4569108, "length": 72 },
+      "normals": { "offset": 4569396, "length": 72 },
+      "indices": { "offset": 4569684, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4569828, "length": 72 },
+      "normals": { "offset": 4570116, "length": 72 },
+      "indices": { "offset": 4570404, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4570548, "length": 72 },
+      "normals": { "offset": 4570836, "length": 72 },
+      "indices": { "offset": 4571124, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4571268, "length": 72 },
+      "normals": { "offset": 4571556, "length": 72 },
+      "indices": { "offset": 4571844, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4571988, "length": 72 },
+      "normals": { "offset": 4572276, "length": 72 },
+      "indices": { "offset": 4572564, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4572708, "length": 72 },
+      "normals": { "offset": 4572996, "length": 72 },
+      "indices": { "offset": 4573284, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4573428, "length": 72 },
+      "normals": { "offset": 4573716, "length": 72 },
+      "indices": { "offset": 4574004, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4574148, "length": 72 },
+      "normals": { "offset": 4574436, "length": 72 },
+      "indices": { "offset": 4574724, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4574868, "length": 72 },
+      "normals": { "offset": 4575156, "length": 72 },
+      "indices": { "offset": 4575444, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4575588, "length": 72 },
+      "normals": { "offset": 4575876, "length": 72 },
+      "indices": { "offset": 4576164, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4576308, "length": 72 },
+      "normals": { "offset": 4576596, "length": 72 },
+      "indices": { "offset": 4576884, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4577028, "length": 72 },
+      "normals": { "offset": 4577316, "length": 72 },
+      "indices": { "offset": 4577604, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4577748, "length": 72 },
+      "normals": { "offset": 4578036, "length": 72 },
+      "indices": { "offset": 4578324, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4578468, "length": 72 },
+      "normals": { "offset": 4578756, "length": 72 },
+      "indices": { "offset": 4579044, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4579188, "length": 72 },
+      "normals": { "offset": 4579476, "length": 72 },
+      "indices": { "offset": 4579764, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4579908, "length": 72 },
+      "normals": { "offset": 4580196, "length": 72 },
+      "indices": { "offset": 4580484, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4580628, "length": 72 },
+      "normals": { "offset": 4580916, "length": 72 },
+      "indices": { "offset": 4581204, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4581348, "length": 72 },
+      "normals": { "offset": 4581636, "length": 72 },
+      "indices": { "offset": 4581924, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4582068, "length": 72 },
+      "normals": { "offset": 4582356, "length": 72 },
+      "indices": { "offset": 4582644, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4582788, "length": 72 },
+      "normals": { "offset": 4583076, "length": 72 },
+      "indices": { "offset": 4583364, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4583508, "length": 72 },
+      "normals": { "offset": 4583796, "length": 72 },
+      "indices": { "offset": 4584084, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4584228, "length": 72 },
+      "normals": { "offset": 4584516, "length": 72 },
+      "indices": { "offset": 4584804, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4584948, "length": 72 },
+      "normals": { "offset": 4585236, "length": 72 },
+      "indices": { "offset": 4585524, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4585668, "length": 72 },
+      "normals": { "offset": 4585956, "length": 72 },
+      "indices": { "offset": 4586244, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4586388, "length": 72 },
+      "normals": { "offset": 4586676, "length": 72 },
+      "indices": { "offset": 4586964, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4587108, "length": 72 },
+      "normals": { "offset": 4587396, "length": 72 },
+      "indices": { "offset": 4587684, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4587828, "length": 72 },
+      "normals": { "offset": 4588116, "length": 72 },
+      "indices": { "offset": 4588404, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4588548, "length": 72 },
+      "normals": { "offset": 4588836, "length": 72 },
+      "indices": { "offset": 4589124, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4589268, "length": 72 },
+      "normals": { "offset": 4589556, "length": 72 },
+      "indices": { "offset": 4589844, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4589988, "length": 72 },
+      "normals": { "offset": 4590276, "length": 72 },
+      "indices": { "offset": 4590564, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4590708, "length": 72 },
+      "normals": { "offset": 4590996, "length": 72 },
+      "indices": { "offset": 4591284, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4591428, "length": 72 },
+      "normals": { "offset": 4591716, "length": 72 },
+      "indices": { "offset": 4592004, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4592148, "length": 360 },
+      "normals": { "offset": 4593588, "length": 360 },
+      "indices": { "offset": 4595028, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4596324, "length": 360 },
+      "normals": { "offset": 4597764, "length": 360 },
+      "indices": { "offset": 4599204, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4600500, "length": 72 },
+      "normals": { "offset": 4600788, "length": 72 },
+      "indices": { "offset": 4601076, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4601220, "length": 72 },
+      "normals": { "offset": 4601508, "length": 72 },
+      "indices": { "offset": 4601796, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4601940, "length": 72 },
+      "normals": { "offset": 4602228, "length": 72 },
+      "indices": { "offset": 4602516, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4602660, "length": 72 },
+      "normals": { "offset": 4602948, "length": 72 },
+      "indices": { "offset": 4603236, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4603380, "length": 72 },
+      "normals": { "offset": 4603668, "length": 72 },
+      "indices": { "offset": 4603956, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4604100, "length": 360 },
+      "normals": { "offset": 4605540, "length": 360 },
+      "indices": { "offset": 4606980, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4608276, "length": 360 },
+      "normals": { "offset": 4609716, "length": 360 },
+      "indices": { "offset": 4611156, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4612452, "length": 72 },
+      "normals": { "offset": 4612740, "length": 72 },
+      "indices": { "offset": 4613028, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4613172, "length": 72 },
+      "normals": { "offset": 4613460, "length": 72 },
+      "indices": { "offset": 4613748, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4613892, "length": 72 },
+      "normals": { "offset": 4614180, "length": 72 },
+      "indices": { "offset": 4614468, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4614612, "length": 72 },
+      "normals": { "offset": 4614900, "length": 72 },
+      "indices": { "offset": 4615188, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4615332, "length": 360 },
+      "normals": { "offset": 4616772, "length": 360 },
+      "indices": { "offset": 4618212, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4619508, "length": 360 },
+      "normals": { "offset": 4620948, "length": 360 },
+      "indices": { "offset": 4622388, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4623684, "length": 72 },
+      "normals": { "offset": 4623972, "length": 72 },
+      "indices": { "offset": 4624260, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4624404, "length": 72 },
+      "normals": { "offset": 4624692, "length": 72 },
+      "indices": { "offset": 4624980, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4625124, "length": 360 },
+      "normals": { "offset": 4626564, "length": 360 },
+      "indices": { "offset": 4628004, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4629300, "length": 360 },
+      "normals": { "offset": 4630740, "length": 360 },
+      "indices": { "offset": 4632180, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4633476, "length": 360 },
+      "normals": { "offset": 4634916, "length": 360 },
+      "indices": { "offset": 4636356, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4637652, "length": 360 },
+      "normals": { "offset": 4639092, "length": 360 },
+      "indices": { "offset": 4640532, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4641828, "length": 72 },
+      "normals": { "offset": 4642116, "length": 72 },
+      "indices": { "offset": 4642404, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4642548, "length": 72 },
+      "normals": { "offset": 4642836, "length": 72 },
+      "indices": { "offset": 4643124, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4643268, "length": 360 },
+      "normals": { "offset": 4644708, "length": 360 },
+      "indices": { "offset": 4646148, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4647444, "length": 360 },
+      "normals": { "offset": 4648884, "length": 360 },
+      "indices": { "offset": 4650324, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4651620, "length": 72 },
+      "normals": { "offset": 4651908, "length": 72 },
+      "indices": { "offset": 4652196, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4652340, "length": 72 },
+      "normals": { "offset": 4652628, "length": 72 },
+      "indices": { "offset": 4652916, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4653060, "length": 72 },
+      "normals": { "offset": 4653348, "length": 72 },
+      "indices": { "offset": 4653636, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4653780, "length": 72 },
+      "normals": { "offset": 4654068, "length": 72 },
+      "indices": { "offset": 4654356, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4654500, "length": 72 },
+      "normals": { "offset": 4654788, "length": 72 },
+      "indices": { "offset": 4655076, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4655220, "length": 72 },
+      "normals": { "offset": 4655508, "length": 72 },
+      "indices": { "offset": 4655796, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4655940, "length": 72 },
+      "normals": { "offset": 4656228, "length": 72 },
+      "indices": { "offset": 4656516, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4656660, "length": 72 },
+      "normals": { "offset": 4656948, "length": 72 },
+      "indices": { "offset": 4657236, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4657380, "length": 72 },
+      "normals": { "offset": 4657668, "length": 72 },
+      "indices": { "offset": 4657956, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4658100, "length": 72 },
+      "normals": { "offset": 4658388, "length": 72 },
+      "indices": { "offset": 4658676, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4658820, "length": 72 },
+      "normals": { "offset": 4659108, "length": 72 },
+      "indices": { "offset": 4659396, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4659540, "length": 360 },
+      "normals": { "offset": 4660980, "length": 360 },
+      "indices": { "offset": 4662420, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4663716, "length": 360 },
+      "normals": { "offset": 4665156, "length": 360 },
+      "indices": { "offset": 4666596, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4667892, "length": 360 },
+      "normals": { "offset": 4669332, "length": 360 },
+      "indices": { "offset": 4670772, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4672068, "length": 360 },
+      "normals": { "offset": 4673508, "length": 360 },
+      "indices": { "offset": 4674948, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4676244, "length": 72 },
+      "normals": { "offset": 4676532, "length": 72 },
+      "indices": { "offset": 4676820, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4676964, "length": 72 },
+      "normals": { "offset": 4677252, "length": 72 },
+      "indices": { "offset": 4677540, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4677684, "length": 72 },
+      "normals": { "offset": 4677972, "length": 72 },
+      "indices": { "offset": 4678260, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4678404, "length": 72 },
+      "normals": { "offset": 4678692, "length": 72 },
+      "indices": { "offset": 4678980, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4679124, "length": 72 },
+      "normals": { "offset": 4679412, "length": 72 },
+      "indices": { "offset": 4679700, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4679844, "length": 72 },
+      "normals": { "offset": 4680132, "length": 72 },
+      "indices": { "offset": 4680420, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4680564, "length": 72 },
+      "normals": { "offset": 4680852, "length": 72 },
+      "indices": { "offset": 4681140, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4681284, "length": 72 },
+      "normals": { "offset": 4681572, "length": 72 },
+      "indices": { "offset": 4681860, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4682004, "length": 72 },
+      "normals": { "offset": 4682292, "length": 72 },
+      "indices": { "offset": 4682580, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4682724, "length": 72 },
+      "normals": { "offset": 4683012, "length": 72 },
+      "indices": { "offset": 4683300, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4683444, "length": 72 },
+      "normals": { "offset": 4683732, "length": 72 },
+      "indices": { "offset": 4684020, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4684164, "length": 72 },
+      "normals": { "offset": 4684452, "length": 72 },
+      "indices": { "offset": 4684740, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4684884, "length": 72 },
+      "normals": { "offset": 4685172, "length": 72 },
+      "indices": { "offset": 4685460, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4685604, "length": 72 },
+      "normals": { "offset": 4685892, "length": 72 },
+      "indices": { "offset": 4686180, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4686324, "length": 72 },
+      "normals": { "offset": 4686612, "length": 72 },
+      "indices": { "offset": 4686900, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4687044, "length": 72 },
+      "normals": { "offset": 4687332, "length": 72 },
+      "indices": { "offset": 4687620, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4687764, "length": 72 },
+      "normals": { "offset": 4688052, "length": 72 },
+      "indices": { "offset": 4688340, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4688484, "length": 72 },
+      "normals": { "offset": 4688772, "length": 72 },
+      "indices": { "offset": 4689060, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4689204, "length": 72 },
+      "normals": { "offset": 4689492, "length": 72 },
+      "indices": { "offset": 4689780, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4689924, "length": 360 },
+      "normals": { "offset": 4691364, "length": 360 },
+      "indices": { "offset": 4692804, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4694100, "length": 360 },
+      "normals": { "offset": 4695540, "length": 360 },
+      "indices": { "offset": 4696980, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4698276, "length": 360 },
+      "normals": { "offset": 4699716, "length": 360 },
+      "indices": { "offset": 4701156, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4702452, "length": 360 },
+      "normals": { "offset": 4703892, "length": 360 },
+      "indices": { "offset": 4705332, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4706628, "length": 72 },
+      "normals": { "offset": 4706916, "length": 72 },
+      "indices": { "offset": 4707204, "length": 36 }
+    },
+    {
+      "name": "SOLDERMASK_TOP",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 4707348, "length": 14766 },
+      "normals": { "offset": 4766412, "length": 14766 },
+      "indices": { "offset": 4825476, "length": 13236 }
+    },
+    {
+      "name": "Dielectric",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 4878420, "length": 1704 },
+      "normals": { "offset": 4885236, "length": 1704 },
+      "indices": { "offset": 4892052, "length": 1668 }
+    },
+    {
+      "name": "SOLDERMASK_BOTTOM",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 4898724, "length": 3606 },
+      "normals": { "offset": 4913148, "length": 3606 },
+      "indices": { "offset": 4927572, "length": 3168 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4940244, "length": 72 },
+      "normals": { "offset": 4940532, "length": 72 },
+      "indices": { "offset": 4940820, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4940964, "length": 72 },
+      "normals": { "offset": 4941252, "length": 72 },
+      "indices": { "offset": 4941540, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4941684, "length": 72 },
+      "normals": { "offset": 4941972, "length": 72 },
+      "indices": { "offset": 4942260, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4942404, "length": 72 },
+      "normals": { "offset": 4942692, "length": 72 },
+      "indices": { "offset": 4942980, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4943124, "length": 72 },
+      "normals": { "offset": 4943412, "length": 72 },
+      "indices": { "offset": 4943700, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4943844, "length": 72 },
+      "normals": { "offset": 4944132, "length": 72 },
+      "indices": { "offset": 4944420, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4944564, "length": 72 },
+      "normals": { "offset": 4944852, "length": 72 },
+      "indices": { "offset": 4945140, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4945284, "length": 72 },
+      "normals": { "offset": 4945572, "length": 72 },
+      "indices": { "offset": 4945860, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4946004, "length": 72 },
+      "normals": { "offset": 4946292, "length": 72 },
+      "indices": { "offset": 4946580, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4946724, "length": 72 },
+      "normals": { "offset": 4947012, "length": 72 },
+      "indices": { "offset": 4947300, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4947444, "length": 72 },
+      "normals": { "offset": 4947732, "length": 72 },
+      "indices": { "offset": 4948020, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4948164, "length": 72 },
+      "normals": { "offset": 4948452, "length": 72 },
+      "indices": { "offset": 4948740, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4948884, "length": 72 },
+      "normals": { "offset": 4949172, "length": 72 },
+      "indices": { "offset": 4949460, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4949604, "length": 72 },
+      "normals": { "offset": 4949892, "length": 72 },
+      "indices": { "offset": 4950180, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4950324, "length": 72 },
+      "normals": { "offset": 4950612, "length": 72 },
+      "indices": { "offset": 4950900, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4951044, "length": 72 },
+      "normals": { "offset": 4951332, "length": 72 },
+      "indices": { "offset": 4951620, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4951764, "length": 72 },
+      "normals": { "offset": 4952052, "length": 72 },
+      "indices": { "offset": 4952340, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4952484, "length": 72 },
+      "normals": { "offset": 4952772, "length": 72 },
+      "indices": { "offset": 4953060, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4953204, "length": 72 },
+      "normals": { "offset": 4953492, "length": 72 },
+      "indices": { "offset": 4953780, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4953924, "length": 72 },
+      "normals": { "offset": 4954212, "length": 72 },
+      "indices": { "offset": 4954500, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4954644, "length": 72 },
+      "normals": { "offset": 4954932, "length": 72 },
+      "indices": { "offset": 4955220, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4955364, "length": 72 },
+      "normals": { "offset": 4955652, "length": 72 },
+      "indices": { "offset": 4955940, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4956084, "length": 72 },
+      "normals": { "offset": 4956372, "length": 72 },
+      "indices": { "offset": 4956660, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4956804, "length": 72 },
+      "normals": { "offset": 4957092, "length": 72 },
+      "indices": { "offset": 4957380, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4957524, "length": 72 },
+      "normals": { "offset": 4957812, "length": 72 },
+      "indices": { "offset": 4958100, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4958244, "length": 72 },
+      "normals": { "offset": 4958532, "length": 72 },
+      "indices": { "offset": 4958820, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4958964, "length": 72 },
+      "normals": { "offset": 4959252, "length": 72 },
+      "indices": { "offset": 4959540, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4959684, "length": 72 },
+      "normals": { "offset": 4959972, "length": 72 },
+      "indices": { "offset": 4960260, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4960404, "length": 72 },
+      "normals": { "offset": 4960692, "length": 72 },
+      "indices": { "offset": 4960980, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4961124, "length": 72 },
+      "normals": { "offset": 4961412, "length": 72 },
+      "indices": { "offset": 4961700, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4961844, "length": 1284 },
+      "normals": { "offset": 4966980, "length": 1284 },
+      "indices": { "offset": 4972116, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4976244, "length": 858 },
+      "normals": { "offset": 4979676, "length": 858 },
+      "indices": { "offset": 4983108, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 4985892, "length": 1284 },
+      "normals": { "offset": 4991028, "length": 1284 },
+      "indices": { "offset": 4996164, "length": 1032 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5000292, "length": 858 },
+      "normals": { "offset": 5003724, "length": 858 },
+      "indices": { "offset": 5007156, "length": 696 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5009940, "length": 696 },
+      "normals": { "offset": 5012724, "length": 696 },
+      "indices": { "offset": 5015508, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5018004, "length": 1044 },
+      "normals": { "offset": 5022180, "length": 1044 },
+      "indices": { "offset": 5026356, "length": 864 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5029812, "length": 696 },
+      "normals": { "offset": 5032596, "length": 696 },
+      "indices": { "offset": 5035380, "length": 624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5037876, "length": 1044 },
+      "normals": { "offset": 5042052, "length": 1044 },
+      "indices": { "offset": 5046228, "length": 864 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5049684, "length": 1170 },
+      "normals": { "offset": 5054364, "length": 1170 },
+      "indices": { "offset": 5059044, "length": 936 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5062788, "length": 1170 },
+      "normals": { "offset": 5067468, "length": 1170 },
+      "indices": { "offset": 5072148, "length": 936 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5075892, "length": 1296 },
+      "normals": { "offset": 5081076, "length": 1296 },
+      "indices": { "offset": 5086260, "length": 1044 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5090436, "length": 912 },
+      "normals": { "offset": 5094084, "length": 912 },
+      "indices": { "offset": 5097732, "length": 768 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5100804, "length": 1248 },
+      "normals": { "offset": 5105796, "length": 1248 },
+      "indices": { "offset": 5110788, "length": 960 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5114628, "length": 1182 },
+      "normals": { "offset": 5119356, "length": 1182 },
+      "indices": { "offset": 5124084, "length": 948 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5127876, "length": 756 },
+      "normals": { "offset": 5130900, "length": 756 },
+      "indices": { "offset": 5133924, "length": 648 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5136516, "length": 1296 },
+      "normals": { "offset": 5141700, "length": 1296 },
+      "indices": { "offset": 5146884, "length": 1044 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5151060, "length": 1398 },
+      "normals": { "offset": 5156652, "length": 1398 },
+      "indices": { "offset": 5162244, "length": 1164 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5166900, "length": 1182 },
+      "normals": { "offset": 5171628, "length": 1182 },
+      "indices": { "offset": 5176356, "length": 948 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5180148, "length": 1722 },
+      "normals": { "offset": 5187036, "length": 1722 },
+      "indices": { "offset": 5193924, "length": 1392 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5199492, "length": 360 },
+      "normals": { "offset": 5200932, "length": 360 },
+      "indices": { "offset": 5202372, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5203668, "length": 1194 },
+      "normals": { "offset": 5208444, "length": 1194 },
+      "indices": { "offset": 5213220, "length": 960 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5217060, "length": 906 },
+      "normals": { "offset": 5220684, "length": 906 },
+      "indices": { "offset": 5224308, "length": 816 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5227572, "length": 1608 },
+      "normals": { "offset": 5234004, "length": 1608 },
+      "indices": { "offset": 5240436, "length": 1284 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5245572, "length": 1296 },
+      "normals": { "offset": 5250756, "length": 1296 },
+      "indices": { "offset": 5255940, "length": 1044 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5260116, "length": 912 },
+      "normals": { "offset": 5263764, "length": 912 },
+      "indices": { "offset": 5267412, "length": 768 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5270484, "length": 1248 },
+      "normals": { "offset": 5275476, "length": 1248 },
+      "indices": { "offset": 5280468, "length": 960 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5284308, "length": 1182 },
+      "normals": { "offset": 5289036, "length": 1182 },
+      "indices": { "offset": 5293764, "length": 948 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5297556, "length": 756 },
+      "normals": { "offset": 5300580, "length": 756 },
+      "indices": { "offset": 5303604, "length": 648 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5306196, "length": 1296 },
+      "normals": { "offset": 5311380, "length": 1296 },
+      "indices": { "offset": 5316564, "length": 1044 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5320740, "length": 1398 },
+      "normals": { "offset": 5326332, "length": 1398 },
+      "indices": { "offset": 5331924, "length": 1164 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5336580, "length": 1182 },
+      "normals": { "offset": 5341308, "length": 1182 },
+      "indices": { "offset": 5346036, "length": 948 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5349828, "length": 1722 },
+      "normals": { "offset": 5356716, "length": 1722 },
+      "indices": { "offset": 5363604, "length": 1392 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5369172, "length": 360 },
+      "normals": { "offset": 5370612, "length": 360 },
+      "indices": { "offset": 5372052, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5373348, "length": 1194 },
+      "normals": { "offset": 5378124, "length": 1194 },
+      "indices": { "offset": 5382900, "length": 960 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5386740, "length": 906 },
+      "normals": { "offset": 5390364, "length": 906 },
+      "indices": { "offset": 5393988, "length": 816 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5397252, "length": 1608 },
+      "normals": { "offset": 5403684, "length": 1608 },
+      "indices": { "offset": 5410116, "length": 1284 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5415252, "length": 360 },
+      "normals": { "offset": 5416692, "length": 360 },
+      "indices": { "offset": 5418132, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5419428, "length": 918 },
+      "normals": { "offset": 5423100, "length": 918 },
+      "indices": { "offset": 5426772, "length": 780 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5429892, "length": 756 },
+      "normals": { "offset": 5432916, "length": 756 },
+      "indices": { "offset": 5435940, "length": 648 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5438532, "length": 756 },
+      "normals": { "offset": 5441556, "length": 756 },
+      "indices": { "offset": 5444580, "length": 648 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5447172, "length": 1296 },
+      "normals": { "offset": 5452356, "length": 1296 },
+      "indices": { "offset": 5457540, "length": 1044 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5461716, "length": 1236 },
+      "normals": { "offset": 5466660, "length": 1236 },
+      "indices": { "offset": 5471604, "length": 996 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5475588, "length": 1452 },
+      "normals": { "offset": 5481396, "length": 1452 },
+      "indices": { "offset": 5487204, "length": 1164 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5491860, "length": 1182 },
+      "normals": { "offset": 5496588, "length": 1182 },
+      "indices": { "offset": 5501316, "length": 948 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5505108, "length": 480 },
+      "normals": { "offset": 5507028, "length": 480 },
+      "indices": { "offset": 5508948, "length": 396 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5510532, "length": 888 },
+      "normals": { "offset": 5514084, "length": 888 },
+      "indices": { "offset": 5517636, "length": 720 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5520516, "length": 1194 },
+      "normals": { "offset": 5525292, "length": 1194 },
+      "indices": { "offset": 5530068, "length": 960 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5533908, "length": 1044 },
+      "normals": { "offset": 5538084, "length": 1044 },
+      "indices": { "offset": 5542260, "length": 864 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5545716, "length": 360 },
+      "normals": { "offset": 5547156, "length": 360 },
+      "indices": { "offset": 5548596, "length": 324 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5549892, "length": 918 },
+      "normals": { "offset": 5553564, "length": 918 },
+      "indices": { "offset": 5557236, "length": 780 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5560356, "length": 756 },
+      "normals": { "offset": 5563380, "length": 756 },
+      "indices": { "offset": 5566404, "length": 648 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5568996, "length": 756 },
+      "normals": { "offset": 5572020, "length": 756 },
+      "indices": { "offset": 5575044, "length": 648 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5577636, "length": 1296 },
+      "normals": { "offset": 5582820, "length": 1296 },
+      "indices": { "offset": 5588004, "length": 1044 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5592180, "length": 1236 },
+      "normals": { "offset": 5597124, "length": 1236 },
+      "indices": { "offset": 5602068, "length": 996 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5606052, "length": 1452 },
+      "normals": { "offset": 5611860, "length": 1452 },
+      "indices": { "offset": 5617668, "length": 1164 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5622324, "length": 1182 },
+      "normals": { "offset": 5627052, "length": 1182 },
+      "indices": { "offset": 5631780, "length": 948 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5635572, "length": 480 },
+      "normals": { "offset": 5637492, "length": 480 },
+      "indices": { "offset": 5639412, "length": 396 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5640996, "length": 888 },
+      "normals": { "offset": 5644548, "length": 888 },
+      "indices": { "offset": 5648100, "length": 720 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5650980, "length": 1194 },
+      "normals": { "offset": 5655756, "length": 1194 },
+      "indices": { "offset": 5660532, "length": 960 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5664372, "length": 1044 },
+      "normals": { "offset": 5668548, "length": 1044 },
+      "indices": { "offset": 5672724, "length": 864 }
+    },
+    {
+      "name": "AP3445",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 5676180, "length": 2856 },
+      "normals": { "offset": 5687604, "length": 2856 },
+      "indices": { "offset": 5699028, "length": 2424 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5708724, "length": 9660 },
+      "normals": { "offset": 5747364, "length": 9660 },
+      "indices": { "offset": 5786004, "length": 6780 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5813124, "length": 270 },
+      "normals": { "offset": 5814204, "length": 270 },
+      "indices": { "offset": 5815284, "length": 168 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5815956, "length": 1194 },
+      "normals": { "offset": 5820732, "length": 1194 },
+      "indices": { "offset": 5825508, "length": 1020 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 5829588, "length": 63663 },
+      "normals": { "offset": 6084240, "length": 63663 },
+      "indices": { "offset": 6338892, "length": 60624 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 6581388, "length": 72 },
+      "normals": { "offset": 6581676, "length": 72 },
+      "indices": { "offset": 6581964, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 6582108, "length": 6030 },
+      "normals": { "offset": 6606228, "length": 6030 },
+      "indices": { "offset": 6630348, "length": 5424 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 6652044, "length": 39438 },
+      "normals": { "offset": 6809796, "length": 39438 },
+      "indices": { "offset": 6967548, "length": 37863 }
+    },
+    {
+      "name": "ATMEL_ATSHA204A_SOIC8",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7119000, "length": 3948 },
+      "normals": { "offset": 7134792, "length": 3948 },
+      "indices": { "offset": 7150584, "length": 3264 }
+    },
+    {
+      "name": "BOURNS_SRN2512",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7163640, "length": 2772 },
+      "normals": { "offset": 7174728, "length": 2772 },
+      "indices": { "offset": 7185816, "length": 3036 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7197960, "length": 960 },
+      "normals": { "offset": 7201800, "length": 960 },
+      "indices": { "offset": 7205640, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7208760, "length": 960 },
+      "normals": { "offset": 7212600, "length": 960 },
+      "indices": { "offset": 7216440, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7219560, "length": 960 },
+      "normals": { "offset": 7223400, "length": 960 },
+      "indices": { "offset": 7227240, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7230360, "length": 960 },
+      "normals": { "offset": 7234200, "length": 960 },
+      "indices": { "offset": 7238040, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7241160, "length": 960 },
+      "normals": { "offset": 7245000, "length": 960 },
+      "indices": { "offset": 7248840, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7251960, "length": 960 },
+      "normals": { "offset": 7255800, "length": 960 },
+      "indices": { "offset": 7259640, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7262760, "length": 960 },
+      "normals": { "offset": 7266600, "length": 960 },
+      "indices": { "offset": 7270440, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7273560, "length": 960 },
+      "normals": { "offset": 7277400, "length": 960 },
+      "indices": { "offset": 7281240, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7284360, "length": 960 },
+      "normals": { "offset": 7288200, "length": 960 },
+      "indices": { "offset": 7292040, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7295160, "length": 960 },
+      "normals": { "offset": 7299000, "length": 960 },
+      "indices": { "offset": 7302840, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7305960, "length": 960 },
+      "normals": { "offset": 7309800, "length": 960 },
+      "indices": { "offset": 7313640, "length": 780 }
+    },
+    {
+      "name": "CAPC1005X55N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7316760, "length": 960 },
+      "normals": { "offset": 7320600, "length": 960 },
+      "indices": { "offset": 7324440, "length": 780 }
+    },
+    {
+      "name": "CAPC1608",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7327560, "length": 960 },
+      "normals": { "offset": 7331400, "length": 960 },
+      "indices": { "offset": 7335240, "length": 780 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7338360, "length": 72 },
+      "normals": { "offset": 7338648, "length": 72 },
+      "indices": { "offset": 7338936, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7339080, "length": 72 },
+      "normals": { "offset": 7339368, "length": 72 },
+      "indices": { "offset": 7339656, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7339800, "length": 216 },
+      "normals": { "offset": 7340664, "length": 216 },
+      "indices": { "offset": 7341528, "length": 132 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7342056, "length": 216 },
+      "normals": { "offset": 7342920, "length": 216 },
+      "indices": { "offset": 7343784, "length": 132 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7344312, "length": 72 },
+      "normals": { "offset": 7344600, "length": 72 },
+      "indices": { "offset": 7344888, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7345032, "length": 72 },
+      "normals": { "offset": 7345320, "length": 72 },
+      "indices": { "offset": 7345608, "length": 36 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7345752, "length": 216 },
+      "normals": { "offset": 7346616, "length": 216 },
+      "indices": { "offset": 7347480, "length": 132 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 7348008, "length": 216 },
+      "normals": { "offset": 7348872, "length": 216 },
+      "indices": { "offset": 7349736, "length": 132 }
+    },
+    {
+      "name": "CAPC2012",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7350264, "length": 960 },
+      "normals": { "offset": 7354104, "length": 960 },
+      "indices": { "offset": 7357944, "length": 780 }
+    },
+    {
+      "name": "FCI_SFW15R-1STE1LF",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7361064, "length": 26898 },
+      "normals": { "offset": 7468656, "length": 26898 },
+      "indices": { "offset": 7576248, "length": 22578 }
+    },
+    {
+      "name": "HIROSE_DF37NC-30DS-04V",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 7666560, "length": 34944 },
+      "normals": { "offset": 7806336, "length": 34944 },
+      "indices": { "offset": 7946112, "length": 26292 }
+    },
+    {
+      "name": "MURATA_DLP11SNXXXHL2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8051280, "length": 2682 },
+      "normals": { "offset": 8062008, "length": 2682 },
+      "indices": { "offset": 8072736, "length": 1968 }
+    },
+    {
+      "name": "MURATA_DLP11SNXXXHL2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8080608, "length": 2682 },
+      "normals": { "offset": 8091336, "length": 2682 },
+      "indices": { "offset": 8102064, "length": 1968 }
+    },
+    {
+      "name": "MURATA_DLP11SNXXXHL2",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8109936, "length": 2682 },
+      "normals": { "offset": 8120664, "length": 2682 },
+      "indices": { "offset": 8131392, "length": 1968 }
+    },
+    {
+      "name": "OSC_2P5X2MM",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8139264, "length": 696 },
+      "normals": { "offset": 8142048, "length": 696 },
+      "indices": { "offset": 8144832, "length": 552 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8147040, "length": 1200 },
+      "normals": { "offset": 8151840, "length": 1200 },
+      "indices": { "offset": 8156640, "length": 924 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8160336, "length": 1638 },
+      "normals": { "offset": 8166888, "length": 1638 },
+      "indices": { "offset": 8173440, "length": 1200 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8178240, "length": 1200 },
+      "normals": { "offset": 8183040, "length": 1200 },
+      "indices": { "offset": 8187840, "length": 924 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8191536, "length": 1638 },
+      "normals": { "offset": 8198088, "length": 1638 },
+      "indices": { "offset": 8204640, "length": 1200 }
+    },
+    {
+      "name": "RESC1005X40N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8209440, "length": 960 },
+      "normals": { "offset": 8213280, "length": 960 },
+      "indices": { "offset": 8217120, "length": 780 }
+    },
+    {
+      "name": "RESC1005X40N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8220240, "length": 960 },
+      "normals": { "offset": 8224080, "length": 960 },
+      "indices": { "offset": 8227920, "length": 780 }
+    },
+    {
+      "name": "RESC1005X40N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8231040, "length": 960 },
+      "normals": { "offset": 8234880, "length": 960 },
+      "indices": { "offset": 8238720, "length": 780 }
+    },
+    {
+      "name": "RESC1005X40N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8241840, "length": 960 },
+      "normals": { "offset": 8245680, "length": 960 },
+      "indices": { "offset": 8249520, "length": 780 }
+    },
+    {
+      "name": "RESC1005X40N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8252640, "length": 960 },
+      "normals": { "offset": 8256480, "length": 960 },
+      "indices": { "offset": 8260320, "length": 780 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8263440, "length": 336 },
+      "normals": { "offset": 8264784, "length": 336 },
+      "indices": { "offset": 8266128, "length": 228 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8267040, "length": 198 },
+      "normals": { "offset": 8267832, "length": 198 },
+      "indices": { "offset": 8268624, "length": 114 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8269080, "length": 222 },
+      "normals": { "offset": 8269968, "length": 222 },
+      "indices": { "offset": 8270856, "length": 132 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8271384, "length": 204 },
+      "normals": { "offset": 8272200, "length": 204 },
+      "indices": { "offset": 8273016, "length": 120 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8273496, "length": 198 },
+      "normals": { "offset": 8274288, "length": 198 },
+      "indices": { "offset": 8275080, "length": 114 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8275536, "length": 222 },
+      "normals": { "offset": 8276424, "length": 222 },
+      "indices": { "offset": 8277312, "length": 132 }
+    },
+    {
+      "name": "",
+      "positions": { "offset": 8277840, "length": 204 },
+      "normals": { "offset": 8278656, "length": 204 },
+      "indices": { "offset": 8279472, "length": 120 }
+    },
+    {
+      "name": "SOT95P280X145-5N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8279952, "length": 2856 },
+      "normals": { "offset": 8291376, "length": 2856 },
+      "indices": { "offset": 8302800, "length": 2424 }
+    },
+    {
+      "name": "SOT95P280X145-5N",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8312496, "length": 2856 },
+      "normals": { "offset": 8323920, "length": 2856 },
+      "indices": { "offset": 8335344, "length": 2424 }
+    },
+    {
+      "name": "Camera cover",
+      "color": [
+        0.017641954123973846, 0.017641954123973846, 0.017641954123973846
+      ],
+      "positions": { "offset": 8345040, "length": 1152 },
+      "normals": { "offset": 8349648, "length": 1152 },
+      "indices": { "offset": 8354256, "length": 1128 }
+    },
+    {
+      "name": "Top cover",
+      "color": [0.06480326503515244, 0.06480326503515244, 0.06480326503515244],
+      "positions": { "offset": 8358768, "length": 2364 },
+      "normals": { "offset": 8368224, "length": 2364 },
+      "indices": { "offset": 8377680, "length": 2376 }
+    },
+    {
+      "name": "Cover for middle part",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8387184, "length": 5145 },
+      "normals": { "offset": 8407764, "length": 5145 },
+      "indices": { "offset": 8428344, "length": 6000 }
+    },
+    {
+      "name": "Cover for middle part",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8452344, "length": 5145 },
+      "normals": { "offset": 8472924, "length": 5145 },
+      "indices": { "offset": 8493504, "length": 6000 }
+    },
+    {
+      "name": "Cover for middle part bottom",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8517504, "length": 5304 },
+      "normals": { "offset": 8538720, "length": 5304 },
+      "indices": { "offset": 8559936, "length": 5364 }
+    },
+    {
+      "name": "Robot case bottom",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8581392, "length": 21042 },
+      "normals": { "offset": 8665560, "length": 21042 },
+      "indices": { "offset": 8749728, "length": 20916 }
+    },
+    {
+      "name": "BMS 4S",
+      "color": [0.13286831974983215, 0.6038273572921753, 0],
+      "positions": { "offset": 8833392, "length": 72 },
+      "normals": { "offset": 8833680, "length": 72 },
+      "indices": { "offset": 8833968, "length": 36 }
+    },
+    {
+      "name": "Cover for middle part",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8834112, "length": 5145 },
+      "normals": { "offset": 8854692, "length": 5145 },
+      "indices": { "offset": 8875272, "length": 6000 }
+    },
+    {
+      "name": "Cover for middle part",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8899272, "length": 5145 },
+      "normals": { "offset": 8919852, "length": 5145 },
+      "indices": { "offset": 8940432, "length": 6000 }
+    },
+    {
+      "name": "BMS HOLDER",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8964432, "length": 1686 },
+      "normals": { "offset": 8971176, "length": 1686 },
+      "indices": { "offset": 8977920, "length": 1488 }
+    },
+    {
+      "name": "Gyro",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8983872, "length": 780 },
+      "normals": { "offset": 8986992, "length": 780 },
+      "indices": { "offset": 8990112, "length": 732 }
+    },
+    {
+      "name": "Side cover",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 8993040, "length": 891 },
+      "normals": { "offset": 8996604, "length": 891 },
+      "indices": { "offset": 9000168, "length": 822 }
+    },
+    {
+      "name": "Bottom cover",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9003456, "length": 921 },
+      "normals": { "offset": 9007140, "length": 921 },
+      "indices": { "offset": 9010824, "length": 906 }
+    },
+    {
+      "name": "Support",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9014448, "length": 642 },
+      "normals": { "offset": 9017016, "length": 642 },
+      "indices": { "offset": 9019584, "length": 612 }
+    },
+    {
+      "name": "Cover for middle part bottom",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9022032, "length": 5304 },
+      "normals": { "offset": 9043248, "length": 5304 },
+      "indices": { "offset": 9064464, "length": 5364 }
+    },
+    {
+      "name": "Cover for middle part bottom",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9085920, "length": 5304 },
+      "normals": { "offset": 9107136, "length": 5304 },
+      "indices": { "offset": 9128352, "length": 5364 }
+    },
+    {
+      "name": "Cover for middle part bottom",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9149808, "length": 5304 },
+      "normals": { "offset": 9171024, "length": 5304 },
+      "indices": { "offset": 9192240, "length": 5364 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9213696, "length": 636 },
+      "normals": { "offset": 9216240, "length": 636 },
+      "indices": { "offset": 9218784, "length": 624 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9221280, "length": 636 },
+      "normals": { "offset": 9223824, "length": 636 },
+      "indices": { "offset": 9226368, "length": 624 }
+    },
+    {
+      "name": "Leg connector",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 9228864, "length": 2886 },
+      "normals": { "offset": 9240408, "length": 2886 },
+      "indices": { "offset": 9251952, "length": 2802 }
+    },
+    {
+      "name": "Leg connector",
+      "color": [0.14995978772640228, 0.14995978772640228, 0.14995978772640228],
+      "positions": { "offset": 9263160, "length": 2886 },
+      "normals": { "offset": 9274704, "length": 2886 },
+      "indices": { "offset": 9286248, "length": 2802 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9297456, "length": 636 },
+      "normals": { "offset": 9300000, "length": 636 },
+      "indices": { "offset": 9302544, "length": 624 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9305040, "length": 636 },
+      "normals": { "offset": 9307584, "length": 636 },
+      "indices": { "offset": 9310128, "length": 624 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9312624, "length": 636 },
+      "normals": { "offset": 9315168, "length": 636 },
+      "indices": { "offset": 9317712, "length": 624 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9320208, "length": 636 },
+      "normals": { "offset": 9322752, "length": 636 },
+      "indices": { "offset": 9325296, "length": 624 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9327792, "length": 636 },
+      "normals": { "offset": 9330336, "length": 636 },
+      "indices": { "offset": 9332880, "length": 624 }
+    },
+    {
+      "name": "",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9335376, "length": 636 },
+      "normals": { "offset": 9337920, "length": 636 },
+      "indices": { "offset": 9340464, "length": 624 }
+    },
+    {
+      "name": "Support",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9342960, "length": 642 },
+      "normals": { "offset": 9345528, "length": 642 },
+      "indices": { "offset": 9348096, "length": 612 }
+    },
+    {
+      "name": "Support",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9350544, "length": 642 },
+      "normals": { "offset": 9353112, "length": 642 },
+      "indices": { "offset": 9355680, "length": 612 }
+    },
+    {
+      "name": "Support",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9358128, "length": 642 },
+      "normals": { "offset": 9360696, "length": 642 },
+      "indices": { "offset": 9363264, "length": 612 }
+    },
+    {
+      "name": "Support",
+      "color": [0.2788942754268646, 0.2788942754268646, 0.2788942754268646],
+      "positions": { "offset": 9365712, "length": 642 },
+      "normals": { "offset": 9368280, "length": 642 },
+      "indices": { "offset": 9370848, "length": 612 }
+    }
+  ]
+}
